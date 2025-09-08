@@ -1,0 +1,11 @@
+{
+  "title": "Emoji Quiz – Fruit Phrases",
+  "subtitle": "Guess the phrase from emojis",
+  "options": { "rows": 2, "cols": 3 },
+  "items": [
+    { "prompt": "🍎 + 🥧", "answer": "APPLE PIE", "hint": "dessert" },
+    { "prompt": "🍌 + 🍞", "answer": "BANANA BREAD" },
+    { "prompt": "🍇 + 🍷", "answer": "GRAPE WINE" },
+    { "prompt": "🍍 + 🍕", "answer": "PINEAPPLE PIZZA" }
+  ]
+}

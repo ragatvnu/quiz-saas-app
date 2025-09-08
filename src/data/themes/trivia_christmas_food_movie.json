@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "title": "Christmas Trivia",
+    "subtitle": "Food & Movie Special",
+    "perPage": 5
+  },
+  "pages": [
+    [
+      {
+        "category": "Food",
+        "question": "What traditional meat is often served at Christmas dinner in the UK?",
+        "correct": "Turkey",
+        "choices": ["Turkey", "Ham", "Goose", "Chicken"],
+        "hint": "It's a large bird."
+      },
+      {
+        "category": "Food",
+        "question": "What sweet pie is commonly eaten at Christmas in Britain?",
+        "correct": "Mince Pie",
+        "choices": ["Pumpkin Pie", "Apple Pie", "Mince Pie", "Pecan Pie"],
+        "hint": "It has dried fruit, not meat!"
+      },
+      {
+        "category": "Movie",
+        "question": "In the movie *Home Alone*, where are the McCallisters going for Christmas?",
+        "correct": "Paris",
+        "choices": ["London", "Paris", "New York", "Rome"],
+        "hint": "It's the capital of France."
+      },
+      {
+        "category": "Movie",
+        "question": "Which Christmas movie features the character Buddy the Elf?",
+        "correct": "Elf",
+        "choices": ["Elf", "The Santa Clause", "Home Alone", "Jingle All the Way"],
+        "hint": "The movie shares his title."
+      },
+      {
+        "category": "Food",
+        "question": "Which drink is most associated with Christmas in the US?",
+        "correct": "Eggnog",
+        "choices": ["Mulled Wine", "Hot Chocolate", "Eggnog", "Apple Cider"],
+        "hint": "It’s creamy and often spiced."
+      }
+    ]
+  ]
+}
+

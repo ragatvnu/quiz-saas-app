@@ -1,0 +1,3670 @@
+{
+  "meta": {
+    "title": "Christmas Trivia",
+    "subtitle": "Family Edition",
+    "pages": 30,
+    "perPage": 10
+  },
+  "pages": [
+    [
+      {
+        "id": "q-1",
+        "category": "Christmas",
+        "question": "'Feliz Navidad' is in which language?",
+        "correct": "Spanish",
+        "choices": [
+          "French",
+          "Italian",
+          "Portuguese",
+          "Spanish"
+        ]
+      },
+      {
+        "id": "q-2",
+        "category": "Christmas",
+        "question": "Which toy soldier cracks nuts?",
+        "correct": "Nutcracker",
+        "choices": [
+          "Marionette",
+          "Jack-in-the-Box",
+          "Tin Soldier",
+          "Nutcracker"
+        ]
+      },
+      {
+        "id": "q-3",
+        "category": "Christmas",
+        "question": "Which European figure is known for punishing naughty kids?",
+        "correct": "Krampus",
+        "choices": [
+          "Zwarte Piet",
+          "Perchta",
+          "Belsnickel",
+          "Krampus"
+        ]
+      },
+      {
+        "id": "q-4",
+        "category": "Christmas",
+        "question": "Which toy soldier cracks nuts?",
+        "correct": "Nutcracker",
+        "choices": [
+          "Marionette",
+          "Nutcracker",
+          "Tin Soldier",
+          "Jack-in-the-Box"
+        ]
+      },
+      {
+        "id": "q-5",
+        "category": "Christmas",
+        "question": "What confectionery is shaped like a cane?",
+        "correct": "Candy cane",
+        "choices": [
+          "Rock candy",
+          "Candy cane",
+          "Lollipop",
+          "Toffee twist"
+        ]
+      },
+      {
+        "id": "q-6",
+        "category": "Christmas",
+        "question": "What meat is commonly eaten at British Christmas dinners?",
+        "correct": "Turkey",
+        "choices": [
+          "Turkey",
+          "Pork",
+          "Duck",
+          "Beef"
+        ]
+      },
+      {
+        "id": "q-7",
+        "category": "Christmas",
+        "question": "What is the name of the period leading up to Christmas?",
+        "correct": "Advent",
+        "choices": [
+          "Michaelmas",
+          "Lent",
+          "Advent",
+          "Epiphany"
+        ]
+      },
+      {
+        "id": "q-8",
+        "category": "Christmas",
+        "question": "What meat is commonly eaten at British Christmas dinners?",
+        "correct": "Turkey",
+        "choices": [
+          "Duck",
+          "Pork",
+          "Turkey",
+          "Beef"
+        ]
+      },
+      {
+        "id": "q-9",
+        "category": "Christmas",
+        "question": "What sweet bread is popular in Italy at Christmas?",
+        "correct": "Panettone",
+        "choices": [
+          "Pandoro",
+          "Babka",
+          "Stollen",
+          "Panettone"
+        ]
+      },
+      {
+        "id": "q-10",
+        "category": "Christmas",
+        "question": "What spice is often used in gingerbread?",
+        "correct": "Ginger",
+        "choices": [
+          "Paprika",
+          "Ginger",
+          "Turmeric",
+          "Saffron"
+        ]
+      }
+    ],
+    [
+      {
+        "id": "q-11",
+        "category": "Christmas",
+        "question": "Which plant do people kiss under?",
+        "correct": "Mistletoe",
+        "choices": [
+          "Holly",
+          "Ivy",
+          "Mistletoe",
+          "Laurel"
+        ]
+      },
+      {
+        "id": "q-12",
+        "category": "Christmas",
+        "question": "Which reindeer shares its name with a Valentine's symbol?",
+        "correct": "Cupid",
+        "choices": [
+          "Cupid",
+          "Comet",
+          "Blitzen",
+          "Dasher"
+        ]
+      },
+      {
+        "id": "q-13",
+        "category": "Christmas",
+        "question": "What’s another name for Santa Claus?",
+        "correct": "Saint Nicholas",
+        "choices": [
+          "Saint Nicholas",
+          "Saint Benedict",
+          "Saint Patrick",
+          "Saint Andrew"
+        ]
+      },
+      {
+        "id": "q-14",
+        "category": "Christmas",
+        "question": "What spice is often used in gingerbread?",
+        "correct": "Ginger",
+        "choices": [
+          "Saffron",
+          "Turmeric",
+          "Ginger",
+          "Paprika"
+        ]
+      },
+      {
+        "id": "q-15",
+        "category": "Christmas",
+        "question": "'White Christmas' was popularized by which singer?",
+        "correct": "Bing Crosby",
+        "choices": [
+          "Elvis Presley",
+          "Frank Sinatra",
+          "Bing Crosby",
+          "Dean Martin"
+        ]
+      },
+      {
+        "id": "q-16",
+        "category": "Christmas",
+        "question": "What do you hang by the fireplace?",
+        "correct": "Stockings",
+        "choices": [
+          "Stockings",
+          "Scarves",
+          "Hats",
+          "Gloves"
+        ]
+      },
+      {
+        "id": "q-17",
+        "category": "Christmas",
+        "question": "Which reindeer shares its name with a Valentine's symbol?",
+        "correct": "Cupid",
+        "choices": [
+          "Cupid",
+          "Comet",
+          "Blitzen",
+          "Dasher"
+        ]
+      },
+      {
+        "id": "q-18",
+        "category": "Christmas",
+        "question": "What’s another name for Santa Claus?",
+        "correct": "Saint Nicholas",
+        "choices": [
+          "Saint Benedict",
+          "Saint Patrick",
+          "Saint Nicholas",
+          "Saint Andrew"
+        ]
+      },
+      {
+        "id": "q-19",
+        "category": "Christmas",
+        "question": "What red plant is a common Christmas decoration?",
+        "correct": "Poinsettia",
+        "choices": [
+          "Rose",
+          "Hibiscus",
+          "Poinsettia",
+          "Tulip"
+        ]
+      },
+      {
+        "id": "q-20",
+        "category": "Christmas",
+        "question": "In 'Home Alone', where is the family going for Christmas vacation?",
+        "correct": "Paris",
+        "choices": [
+          "Rome",
+          "London",
+          "Madrid",
+          "Paris"
+        ]
+      }
+    ],
+    [
+      {
+        "id": "q-21",
+        "category": "Christmas",
+        "question": "Which drink is traditionally left out for Santa in the US?",
+        "correct": "Milk",
+        "choices": [
+          "Tea",
+          "Lemonade",
+          "Milk",
+          "Coffee"
+        ]
+      },
+      {
+        "id": "q-22",
+        "category": "Christmas",
+        "question": "Which country is credited with starting the Christmas tree tradition?",
+        "correct": "Germany",
+        "choices": [
+          "France",
+          "Germany",
+          "Italy",
+          "Austria"
+        ]
+      },
+      {
+        "id": "q-23",
+        "category": "Christmas",
+        "question": "Which dessert is set on fire with brandy in the UK?",
+        "correct": "Christmas pudding",
+        "choices": [
+          "Christmas pudding",
+          "Trifle",
+          "Yule log",
+          "Fruitcake"
+        ]
+      },
+      {
+        "id": "q-24",
+        "category": "Christmas",
+        "question": "What do British children traditionally leave for Santa?",
+        "correct": "Mince pie",
+        "choices": [
+          "Mince pie",
+          "Apple pie",
+          "Cupcake",
+          "Croissant"
+        ]
+      },
+      {
+        "id": "q-25",
+        "category": "Christmas",
+        "question": "Which beverage is made with milk, cream, sugar, and egg?",
+        "correct": "Eggnog",
+        "choices": [
+          "Eggnog",
+          "Horlicks",
+          "Lassi",
+          "Root beer"
+        ]
+      },
+      {
+        "id": "q-26",
+        "category": "Christmas",
+        "question": "What meat is commonly eaten at British Christmas dinners?",
+        "correct": "Turkey",
+        "choices": [
+          "Pork",
+          "Beef",
+          "Duck",
+          "Turkey"
+        ]
+      },
+      {
+        "id": "q-27",
+        "category": "Christmas",
+        "question": "What is the name of the period leading up to Christmas?",
+        "correct": "Advent",
+        "choices": [
+          "Michaelmas",
+          "Advent",
+          "Lent",
+          "Epiphany"
+        ]
+      },
+      {
+        "id": "q-28",
+        "category": "Christmas",
+        "question": "What do you hang by the fireplace?",
+        "correct": "Stockings",
+        "choices": [
+          "Hats",
+          "Gloves",
+          "Scarves",
+          "Stockings"
+        ]
+      },
+      {
+        "id": "q-29",
+        "category": "Christmas",
+        "question": "What spice is often used in gingerbread?",
+        "correct": "Ginger",
+        "choices": [
+          "Ginger",
+          "Saffron",
+          "Turmeric",
+          "Paprika"
+        ]
+      },
+      {
+        "id": "q-30",
+        "category": "Christmas",
+        "question": "Which country is St. Nicholas associated with?",
+        "correct": "Turkey",
+        "choices": [
+          "Turkey",
+          "Syria",
+          "Greece",
+          "Egypt"
+        ]
+      }
+    ],
+    [
+      {
+        "id": "q-31",
+        "category": "Christmas",
+        "question": "Which dessert is set on fire with brandy in the UK?",
+        "correct": "Christmas pudding",
+        "choices": [
+          "Christmas pudding",
+          "Fruitcake",
+          "Trifle",
+          "Yule log"
+        ]
+      },
+      {
+        "id": "q-32",
+        "category": "Christmas",
+        "question": "Which song begins 'Chestnuts roasting on an open fire'?",
+        "correct": "The Christmas Song",
+        "choices": [
+          "White Christmas",
+          "Silent Night",
+          "Jingle Bells",
+          "The Christmas Song"
+        ]
+      },
+      {
+        "id": "q-33",
+        "category": "Christmas",
+        "question": "What confectionery is shaped like a cane?",
+        "correct": "Candy cane",
+        "choices": [
+          "Candy cane",
+          "Lollipop",
+          "Toffee twist",
+          "Rock candy"
+        ]
+      },
+      {
+        "id": "q-34",
+        "category": "Christmas",
+        "question": "What is the day after Christmas called in the UK?",
+        "correct": "Boxing Day",
+        "choices": [
+          "Boxing Day",
+          "Gift Day",
+          "St. Stephen’s Day",
+          "Charity Day"
+        ]
+      },
+      {
+        "id": "q-35",
+        "category": "Christmas",
+        "question": "Which European figure is known for punishing naughty kids?",
+        "correct": "Krampus",
+        "choices": [
+          "Perchta",
+          "Belsnickel",
+          "Zwarte Piet",
+          "Krampus"
+        ]
+      },
+      {
+        "id": "q-36",
+        "category": "Christmas",
+        "question": "'Feliz Navidad' is in which language?",
+        "correct": "Spanish",
+        "choices": [
+          "Italian",
+          "Portuguese",
+          "French",
+          "Spanish"
+        ]
+      },
+      {
+        "id": "q-37",
+        "category": "Christmas",
+        "question": "Which song begins 'Chestnuts roasting on an open fire'?",
+        "correct": "The Christmas Song",
+        "choices": [
+          "Silent Night",
+          "White Christmas",
+          "Jingle Bells",
+          "The Christmas Song"
+        ]
+      },
+      {
+        "id": "q-38",
+        "category": "Christmas",
+        "question": "Which animal pulls Santa’s sleigh?",
+        "correct": "Reindeer",
+        "choices": [
+          "Wolves",
+          "Reindeer",
+          "Horses",
+          "Dogs"
+        ]
+      },
+      {
+        "id": "q-39",
+        "category": "Christmas",
+        "question": "What do carolers do?",
+        "correct": "Sing from house to house",
+        "choices": [
+          "Sing from house to house",
+          "Light fireworks",
+          "Dance in streets",
+          "Knock for gifts"
+        ]
+      },
+      {
+        "id": "q-40",
+        "category": "Christmas",
+        "question": "'Feliz Navidad' is in which language?",
+        "correct": "Spanish",
+        "choices": [
+          "Spanish",
+          "Portuguese",
+          "Italian",
+          "French"
+        ]
+      }
+    ],
+    [
+      {
+        "id": "q-41",
+        "category": "Christmas",
+        "question": "In 'Home Alone', where is the family going for Christmas vacation?",
+        "correct": "Paris",
+        "choices": [
+          "Madrid",
+          "Paris",
+          "London",
+          "Rome"
+        ]
+      },
+      {
+        "id": "q-42",
+        "category": "Christmas",
+        "question": "What red plant is a common Christmas decoration?",
+        "correct": "Poinsettia",
+        "choices": [
+          "Hibiscus",
+          "Tulip",
+          "Rose",
+          "Poinsettia"
+        ]
+      },
+      {
+        "id": "q-43",
+        "category": "Christmas",
+        "question": "What do British children traditionally leave for Santa?",
+        "correct": "Mince pie",
+        "choices": [
+          "Croissant",
+          "Cupcake",
+          "Mince pie",
+          "Apple pie"
+        ]
+      },
+      {
+        "id": "q-44",
+        "category": "Christmas",
+        "question": "Which beverage is made with milk, cream, sugar, and egg?",
+        "correct": "Eggnog",
+        "choices": [
+          "Eggnog",
+          "Horlicks",
+          "Lassi",
+          "Root beer"
+        ]
+      },
+      {
+        "id": "q-45",
+        "category": "Christmas",
+        "question": "'Feliz Navidad' is in which language?",
+        "correct": "Spanish",
+        "choices": [
+          "Spanish",
+          "Italian",
+          "French",
+          "Portuguese"
+        ]
+      },
+      {
+        "id": "q-46",
+        "category": "Christmas",
+        "question": "Which animal pulls Santa’s sleigh?",
+        "correct": "Reindeer",
+        "choices": [
+          "Reindeer",
+          "Horses",
+          "Dogs",
+          "Wolves"
+        ]
+      },
+      {
+        "id": "q-47",
+        "category": "Christmas",
+        "question": "Which figure steals Christmas in a Dr. Seuss story?",
+        "correct": "The Grinch",
+        "choices": [
+          "Krampus",
+          "The Ogre",
+          "The Goblin",
+          "The Grinch"
+        ]
+      },
+      {
+        "id": "q-48",
+        "category": "Christmas",
+        "question": "'Feliz Navidad' is in which language?",
+        "correct": "Spanish",
+        "choices": [
+          "Portuguese",
+          "Spanish",
+          "French",
+          "Italian"
+        ]
+      },
+      {
+        "id": "q-49",
+        "category": "Christmas",
+        "question": "What sweet bread is popular in Italy at Christmas?",
+        "correct": "Panettone",
+        "choices": [
+          "Pandoro",
+          "Stollen",
+          "Panettone",
+          "Babka"
+        ]
+      },
+      {
+        "id": "q-50",
+        "category": "Christmas",
+        "question": "Which city hosts a famous Christmas market in Germany?",
+        "correct": "Nuremberg",
+        "choices": [
+          "Nuremberg",
+          "Berlin",
+          "Hamburg",
+          "Munich"
+        ]
+      }
+    ],
+    [
+      {
+        "id": "q-51",
+        "category": "Christmas",
+        "question": "Which figure steals Christmas in a Dr. Seuss story?",
+        "correct": "The Grinch",
+        "choices": [
+          "The Grinch",
+          "The Goblin",
+          "The Ogre",
+          "Krampus"
+        ]
+      },
+      {
+        "id": "q-52",
+        "category": "Christmas",
+        "question": "What do carolers do?",
+        "correct": "Sing from house to house",
+        "choices": [
+          "Light fireworks",
+          "Dance in streets",
+          "Sing from house to house",
+          "Knock for gifts"
+        ]
+      },
+      {
+        "id": "q-53",
+        "category": "Christmas",
+        "question": "What spice is often used in gingerbread?",
+        "correct": "Ginger",
+        "choices": [
+          "Turmeric",
+          "Ginger",
+          "Paprika",
+          "Saffron"
+        ]
+      },
+      {
+        "id": "q-54",
+        "category": "Christmas",
+        "question": "What’s the name of the period after Christmas until Epiphany?",
+        "correct": "Twelve Days of Christmas",
+        "choices": [
+          "Twelve Days of Christmas",
+          "Advent",
+          "Christmastide Eve",
+          "Yule End"
+        ]
+      },
+      {
+        "id": "q-55",
+        "category": "Christmas",
+        "question": "Which European figure is known for punishing naughty kids?",
+        "correct": "Krampus",
+        "choices": [
+          "Zwarte Piet",
+          "Belsnickel",
+          "Krampus",
+          "Perchta"
+        ]
+      },
+      {
+        "id": "q-56",
+        "category": "Christmas",
+        "question": "Which dessert is set on fire with brandy in the UK?",
+        "correct": "Christmas pudding",
+        "choices": [
+          "Christmas pudding",
+          "Trifle",
+          "Yule log",
+          "Fruitcake"
+        ]
+      },
+      {
+        "id": "q-57",
+        "category": "Christmas",
+        "question": "In 'Home Alone', where is the family going for Christmas vacation?",
+        "correct": "Paris",
+        "choices": [
+          "London",
+          "Madrid",
+          "Paris",
+          "Rome"
+        ]
+      },
+      {
+        "id": "q-58",
+        "category": "Christmas",
+        "question": "'Feliz Navidad' is in which language?",
+        "correct": "Spanish",
+        "choices": [
+          "Spanish",
+          "Portuguese",
+          "Italian",
+          "French"
+        ]
+      },
+      {
+        "id": "q-59",
+        "category": "Christmas",
+        "question": "What do you hang by the fireplace?",
+        "correct": "Stockings",
+        "choices": [
+          "Stockings",
+          "Hats",
+          "Scarves",
+          "Gloves"
+        ]
+      },
+      {
+        "id": "q-60",
+        "category": "Christmas",
+        "question": "Rudolph’s nose is what color?",
+        "correct": "Red",
+        "choices": [
+          "Gold",
+          "Green",
+          "Red",
+          "Blue"
+        ]
+      }
+    ],
+    [
+      {
+        "id": "q-61",
+        "category": "Christmas",
+        "question": "Which plant do people kiss under?",
+        "correct": "Mistletoe",
+        "choices": [
+          "Laurel",
+          "Mistletoe",
+          "Holly",
+          "Ivy"
+        ]
+      },
+      {
+        "id": "q-62",
+        "category": "Christmas",
+        "question": "'White Christmas' was popularized by which singer?",
+        "correct": "Bing Crosby",
+        "choices": [
+          "Dean Martin",
+          "Elvis Presley",
+          "Bing Crosby",
+          "Frank Sinatra"
+        ]
+      },
+      {
+        "id": "q-63",
+        "category": "Christmas",
+        "question": "Which plant do people kiss under?",
+        "correct": "Mistletoe",
+        "choices": [
+          "Laurel",
+          "Holly",
+          "Mistletoe",
+          "Ivy"
+        ]
+      },
+      {
+        "id": "q-64",
+        "category": "Christmas",
+        "question": "Which song begins 'Chestnuts roasting on an open fire'?",
+        "correct": "The Christmas Song",
+        "choices": [
+          "White Christmas",
+          "Silent Night",
+          "Jingle Bells",
+          "The Christmas Song"
+        ]
+      },
+      {
+        "id": "q-65",
+        "category": "Christmas",
+        "question": "What spice is often used in gingerbread?",
+        "correct": "Ginger",
+        "choices": [
+          "Paprika",
+          "Turmeric",
+          "Saffron",
+          "Ginger"
+        ]
+      },
+      {
+        "id": "q-66",
+        "category": "Christmas",
+        "question": "Which beverage is made with milk, cream, sugar, and egg?",
+        "correct": "Eggnog",
+        "choices": [
+          "Lassi",
+          "Eggnog",
+          "Horlicks",
+          "Root beer"
+        ]
+      },
+      {
+        "id": "q-67",
+        "category": "Christmas",
+        "question": "What do carolers do?",
+        "correct": "Sing from house to house",
+        "choices": [
+          "Dance in streets",
+          "Knock for gifts",
+          "Light fireworks",
+          "Sing from house to house"
+        ]
+      },
+      {
+        "id": "q-68",
+        "category": "Christmas",
+        "question": "What’s the name of the period after Christmas until Epiphany?",
+        "correct": "Twelve Days of Christmas",
+        "choices": [
+          "Yule End",
+          "Advent",
+          "Christmastide Eve",
+          "Twelve Days of Christmas"
+        ]
+      },
+      {
+        "id": "q-69",
+        "category": "Christmas",
+        "question": "What’s the name of the period after Christmas until Epiphany?",
+        "correct": "Twelve Days of Christmas",
+        "choices": [
+          "Twelve Days of Christmas",
+          "Advent",
+          "Christmastide Eve",
+          "Yule End"
+        ]
+      },
+      {
+        "id": "q-70",
+        "category": "Christmas",
+        "question": "What do carolers do?",
+        "correct": "Sing from house to house",
+        "choices": [
+          "Sing from house to house",
+          "Knock for gifts",
+          "Dance in streets",
+          "Light fireworks"
+        ]
+      }
+    ],
+    [
+      {
+        "id": "q-71",
+        "category": "Christmas",
+        "question": "Which figure steals Christmas in a Dr. Seuss story?",
+        "correct": "The Grinch",
+        "choices": [
+          "The Grinch",
+          "The Goblin",
+          "The Ogre",
+          "Krampus"
+        ]
+      },
+      {
+        "id": "q-72",
+        "category": "Christmas",
+        "question": "Which drink is traditionally left out for Santa in the US?",
+        "correct": "Milk",
+        "choices": [
+          "Lemonade",
+          "Milk",
+          "Tea",
+          "Coffee"
+        ]
+      },
+      {
+        "id": "q-73",
+        "category": "Christmas",
+        "question": "Which dessert is set on fire with brandy in the UK?",
+        "correct": "Christmas pudding",
+        "choices": [
+          "Trifle",
+          "Fruitcake",
+          "Christmas pudding",
+          "Yule log"
+        ]
+      },
+      {
+        "id": "q-74",
+        "category": "Christmas",
+        "question": "What red plant is a common Christmas decoration?",
+        "correct": "Poinsettia",
+        "choices": [
+          "Rose",
+          "Hibiscus",
+          "Poinsettia",
+          "Tulip"
+        ]
+      },
+      {
+        "id": "q-75",
+        "category": "Christmas",
+        "question": "Which reindeer shares its name with a Valentine's symbol?",
+        "correct": "Cupid",
+        "choices": [
+          "Comet",
+          "Blitzen",
+          "Dasher",
+          "Cupid"
+        ]
+      },
+      {
+        "id": "q-76",
+        "category": "Christmas",
+        "question": "What is the name of the period leading up to Christmas?",
+        "correct": "Advent",
+        "choices": [
+          "Advent",
+          "Lent",
+          "Epiphany",
+          "Michaelmas"
+        ]
+      },
+      {
+        "id": "q-77",
+        "category": "Christmas",
+        "question": "Which reindeer shares its name with a Valentine's symbol?",
+        "correct": "Cupid",
+        "choices": [
+          "Dasher",
+          "Blitzen",
+          "Cupid",
+          "Comet"
+        ]
+      },
+      {
+        "id": "q-78",
+        "category": "Christmas",
+        "question": "Which song begins 'Chestnuts roasting on an open fire'?",
+        "correct": "The Christmas Song",
+        "choices": [
+          "Silent Night",
+          "The Christmas Song",
+          "Jingle Bells",
+          "White Christmas"
+        ]
+      },
+      {
+        "id": "q-79",
+        "category": "Christmas",
+        "question": "What is the day after Christmas called in the UK?",
+        "correct": "Boxing Day",
+        "choices": [
+          "St. Stephen’s Day",
+          "Boxing Day",
+          "Gift Day",
+          "Charity Day"
+        ]
+      },
+      {
+        "id": "q-80",
+        "category": "Christmas",
+        "question": "Which country is credited with starting the Christmas tree tradition?",
+        "correct": "Germany",
+        "choices": [
+          "France",
+          "Germany",
+          "Italy",
+          "Austria"
+        ]
+      }
+    ],
+    [
+      {
+        "id": "q-81",
+        "category": "Christmas",
+        "question": "Which figure steals Christmas in a Dr. Seuss story?",
+        "correct": "The Grinch",
+        "choices": [
+          "The Goblin",
+          "Krampus",
+          "The Grinch",
+          "The Ogre"
+        ]
+      },
+      {
+        "id": "q-82",
+        "category": "Christmas",
+        "question": "What sweet bread is popular in Italy at Christmas?",
+        "correct": "Panettone",
+        "choices": [
+          "Panettone",
+          "Stollen",
+          "Pandoro",
+          "Babka"
+        ]
+      },
+      {
+        "id": "q-83",
+        "category": "Christmas",
+        "question": "'White Christmas' was popularized by which singer?",
+        "correct": "Bing Crosby",
+        "choices": [
+          "Frank Sinatra",
+          "Bing Crosby",
+          "Dean Martin",
+          "Elvis Presley"
+        ]
+      },
+      {
+        "id": "q-84",
+        "category": "Christmas",
+        "question": "What sweet bread is popular in Italy at Christmas?",
+        "correct": "Panettone",
+        "choices": [
+          "Panettone",
+          "Pandoro",
+          "Stollen",
+          "Babka"
+        ]
+      },
+      {
+        "id": "q-85",
+        "category": "Christmas",
+        "question": "Which beverage is made with milk, cream, sugar, and egg?",
+        "correct": "Eggnog",
+        "choices": [
+          "Horlicks",
+          "Eggnog",
+          "Root beer",
+          "Lassi"
+        ]
+      },
+      {
+        "id": "q-86",
+        "category": "Christmas",
+        "question": "What red plant is a common Christmas decoration?",
+        "correct": "Poinsettia",
+        "choices": [
+          "Poinsettia",
+          "Hibiscus",
+          "Rose",
+          "Tulip"
+        ]
+      },
+      {
+        "id": "q-87",
+        "category": "Christmas",
+        "question": "What’s the German Christmas cake with marzipan?",
+        "correct": "Stollen",
+        "choices": [
+          "Pain d’épices",
+          "Kugelhopf",
+          "Panforte",
+          "Stollen"
+        ]
+      },
+      {
+        "id": "q-88",
+        "category": "Christmas",
+        "question": "What’s the German Christmas cake with marzipan?",
+        "correct": "Stollen",
+        "choices": [
+          "Stollen",
+          "Pain d’épices",
+          "Panforte",
+          "Kugelhopf"
+        ]
+      },
+      {
+        "id": "q-89",
+        "category": "Christmas",
+        "question": "Which beverage is made with milk, cream, sugar, and egg?",
+        "correct": "Eggnog",
+        "choices": [
+          "Eggnog",
+          "Root beer",
+          "Lassi",
+          "Horlicks"
+        ]
+      },
+      {
+        "id": "q-90",
+        "category": "Christmas",
+        "question": "What do carolers do?",
+        "correct": "Sing from house to house",
+        "choices": [
+          "Knock for gifts",
+          "Dance in streets",
+          "Sing from house to house",
+          "Light fireworks"
+        ]
+      }
+    ],
+    [
+      {
+        "id": "q-91",
+        "category": "Christmas",
+        "question": "'White Christmas' was popularized by which singer?",
+        "correct": "Bing Crosby",
+        "choices": [
+          "Elvis Presley",
+          "Dean Martin",
+          "Frank Sinatra",
+          "Bing Crosby"
+        ]
+      },
+      {
+        "id": "q-92",
+        "category": "Christmas",
+        "question": "Which plant do people kiss under?",
+        "correct": "Mistletoe",
+        "choices": [
+          "Ivy",
+          "Holly",
+          "Mistletoe",
+          "Laurel"
+        ]
+      },
+      {
+        "id": "q-93",
+        "category": "Christmas",
+        "question": "What do you hang by the fireplace?",
+        "correct": "Stockings",
+        "choices": [
+          "Stockings",
+          "Scarves",
+          "Gloves",
+          "Hats"
+        ]
+      },
+      {
+        "id": "q-94",
+        "category": "Christmas",
+        "question": "What’s the name of the period after Christmas until Epiphany?",
+        "correct": "Twelve Days of Christmas",
+        "choices": [
+          "Yule End",
+          "Twelve Days of Christmas",
+          "Advent",
+          "Christmastide Eve"
+        ]
+      },
+      {
+        "id": "q-95",
+        "category": "Christmas",
+        "question": "Which dessert is set on fire with brandy in the UK?",
+        "correct": "Christmas pudding",
+        "choices": [
+          "Trifle",
+          "Christmas pudding",
+          "Fruitcake",
+          "Yule log"
+        ]
+      },
+      {
+        "id": "q-96",
+        "category": "Christmas",
+        "question": "What do British children traditionally leave for Santa?",
+        "correct": "Mince pie",
+        "choices": [
+          "Mince pie",
+          "Cupcake",
+          "Croissant",
+          "Apple pie"
+        ]
+      },
+      {
+        "id": "q-97",
+        "category": "Christmas",
+        "question": "Which animal pulls Santa’s sleigh?",
+        "correct": "Reindeer",
+        "choices": [
+          "Horses",
+          "Dogs",
+          "Reindeer",
+          "Wolves"
+        ]
+      },
+      {
+        "id": "q-98",
+        "category": "Christmas",
+        "question": "What’s the German Christmas cake with marzipan?",
+        "correct": "Stollen",
+        "choices": [
+          "Kugelhopf",
+          "Pain d’épices",
+          "Panforte",
+          "Stollen"
+        ]
+      },
+      {
+        "id": "q-99",
+        "category": "Christmas",
+        "question": "Which country is credited with starting the Christmas tree tradition?",
+        "correct": "Germany",
+        "choices": [
+          "Austria",
+          "France",
+          "Italy",
+          "Germany"
+        ]
+      },
+      {
+        "id": "q-100",
+        "category": "Christmas",
+        "question": "What is the name of the period leading up to Christmas?",
+        "correct": "Advent",
+        "choices": [
+          "Michaelmas",
+          "Epiphany",
+          "Lent",
+          "Advent"
+        ]
+      }
+    ],
+    [
+      {
+        "id": "q-101",
+        "category": "Christmas",
+        "question": "'White Christmas' was popularized by which singer?",
+        "correct": "Bing Crosby",
+        "choices": [
+          "Elvis Presley",
+          "Dean Martin",
+          "Frank Sinatra",
+          "Bing Crosby"
+        ]
+      },
+      {
+        "id": "q-102",
+        "category": "Christmas",
+        "question": "Which country is St. Nicholas associated with?",
+        "correct": "Turkey",
+        "choices": [
+          "Syria",
+          "Greece",
+          "Turkey",
+          "Egypt"
+        ]
+      },
+      {
+        "id": "q-103",
+        "category": "Christmas",
+        "question": "What’s the name of the period after Christmas until Epiphany?",
+        "correct": "Twelve Days of Christmas",
+        "choices": [
+          "Yule End",
+          "Advent",
+          "Christmastide Eve",
+          "Twelve Days of Christmas"
+        ]
+      },
+      {
+        "id": "q-104",
+        "category": "Christmas",
+        "question": "What red plant is a common Christmas decoration?",
+        "correct": "Poinsettia",
+        "choices": [
+          "Rose",
+          "Tulip",
+          "Hibiscus",
+          "Poinsettia"
+        ]
+      },
+      {
+        "id": "q-105",
+        "category": "Christmas",
+        "question": "What spice is often used in gingerbread?",
+        "correct": "Ginger",
+        "choices": [
+          "Saffron",
+          "Turmeric",
+          "Ginger",
+          "Paprika"
+        ]
+      },
+      {
+        "id": "q-106",
+        "category": "Christmas",
+        "question": "Which European figure is known for punishing naughty kids?",
+        "correct": "Krampus",
+        "choices": [
+          "Zwarte Piet",
+          "Perchta",
+          "Belsnickel",
+          "Krampus"
+        ]
+      },
+      {
+        "id": "q-107",
+        "category": "Christmas",
+        "question": "What’s the German Christmas cake with marzipan?",
+        "correct": "Stollen",
+        "choices": [
+          "Stollen",
+          "Panforte",
+          "Kugelhopf",
+          "Pain d’épices"
+        ]
+      },
+      {
+        "id": "q-108",
+        "category": "Christmas",
+        "question": "What’s the German Christmas cake with marzipan?",
+        "correct": "Stollen",
+        "choices": [
+          "Stollen",
+          "Panforte",
+          "Kugelhopf",
+          "Pain d’épices"
+        ]
+      },
+      {
+        "id": "q-109",
+        "category": "Christmas",
+        "question": "What sweet bread is popular in Italy at Christmas?",
+        "correct": "Panettone",
+        "choices": [
+          "Panettone",
+          "Stollen",
+          "Babka",
+          "Pandoro"
+        ]
+      },
+      {
+        "id": "q-110",
+        "category": "Christmas",
+        "question": "What do carolers do?",
+        "correct": "Sing from house to house",
+        "choices": [
+          "Sing from house to house",
+          "Dance in streets",
+          "Knock for gifts",
+          "Light fireworks"
+        ]
+      }
+    ],
+    [
+      {
+        "id": "q-111",
+        "category": "Christmas",
+        "question": "What spice is often used in gingerbread?",
+        "correct": "Ginger",
+        "choices": [
+          "Saffron",
+          "Turmeric",
+          "Ginger",
+          "Paprika"
+        ]
+      },
+      {
+        "id": "q-112",
+        "category": "Christmas",
+        "question": "Which drink is traditionally left out for Santa in the US?",
+        "correct": "Milk",
+        "choices": [
+          "Coffee",
+          "Milk",
+          "Tea",
+          "Lemonade"
+        ]
+      },
+      {
+        "id": "q-113",
+        "category": "Christmas",
+        "question": "Rudolph’s nose is what color?",
+        "correct": "Red",
+        "choices": [
+          "Red",
+          "Green",
+          "Gold",
+          "Blue"
+        ]
+      },
+      {
+        "id": "q-114",
+        "category": "Christmas",
+        "question": "Which city hosts a famous Christmas market in Germany?",
+        "correct": "Nuremberg",
+        "choices": [
+          "Nuremberg",
+          "Munich",
+          "Berlin",
+          "Hamburg"
+        ]
+      },
+      {
+        "id": "q-115",
+        "category": "Christmas",
+        "question": "What is the day after Christmas called in the UK?",
+        "correct": "Boxing Day",
+        "choices": [
+          "Boxing Day",
+          "Gift Day",
+          "Charity Day",
+          "St. Stephen’s Day"
+        ]
+      },
+      {
+        "id": "q-116",
+        "category": "Christmas",
+        "question": "What’s another name for Santa Claus?",
+        "correct": "Saint Nicholas",
+        "choices": [
+          "Saint Patrick",
+          "Saint Andrew",
+          "Saint Benedict",
+          "Saint Nicholas"
+        ]
+      },
+      {
+        "id": "q-117",
+        "category": "Christmas",
+        "question": "Which figure steals Christmas in a Dr. Seuss story?",
+        "correct": "The Grinch",
+        "choices": [
+          "Krampus",
+          "The Ogre",
+          "The Goblin",
+          "The Grinch"
+        ]
+      },
+      {
+        "id": "q-118",
+        "category": "Christmas",
+        "question": "Which city hosts a famous Christmas market in Germany?",
+        "correct": "Nuremberg",
+        "choices": [
+          "Nuremberg",
+          "Munich",
+          "Berlin",
+          "Hamburg"
+        ]
+      },
+      {
+        "id": "q-119",
+        "category": "Christmas",
+        "question": "Which country is St. Nicholas associated with?",
+        "correct": "Turkey",
+        "choices": [
+          "Egypt",
+          "Turkey",
+          "Syria",
+          "Greece"
+        ]
+      },
+      {
+        "id": "q-120",
+        "category": "Christmas",
+        "question": "Which toy soldier cracks nuts?",
+        "correct": "Nutcracker",
+        "choices": [
+          "Marionette",
+          "Jack-in-the-Box",
+          "Tin Soldier",
+          "Nutcracker"
+        ]
+      }
+    ],
+    [
+      {
+        "id": "q-121",
+        "category": "Christmas",
+        "question": "What do British children traditionally leave for Santa?",
+        "correct": "Mince pie",
+        "choices": [
+          "Cupcake",
+          "Apple pie",
+          "Mince pie",
+          "Croissant"
+        ]
+      },
+      {
+        "id": "q-122",
+        "category": "Christmas",
+        "question": "What’s another name for Santa Claus?",
+        "correct": "Saint Nicholas",
+        "choices": [
+          "Saint Patrick",
+          "Saint Benedict",
+          "Saint Nicholas",
+          "Saint Andrew"
+        ]
+      },
+      {
+        "id": "q-123",
+        "category": "Christmas",
+        "question": "What is the name of the period leading up to Christmas?",
+        "correct": "Advent",
+        "choices": [
+          "Epiphany",
+          "Michaelmas",
+          "Lent",
+          "Advent"
+        ]
+      },
+      {
+        "id": "q-124",
+        "category": "Christmas",
+        "question": "What’s the name of the period after Christmas until Epiphany?",
+        "correct": "Twelve Days of Christmas",
+        "choices": [
+          "Twelve Days of Christmas",
+          "Advent",
+          "Christmastide Eve",
+          "Yule End"
+        ]
+      },
+      {
+        "id": "q-125",
+        "category": "Christmas",
+        "question": "Which reindeer shares its name with a Valentine's symbol?",
+        "correct": "Cupid",
+        "choices": [
+          "Comet",
+          "Blitzen",
+          "Cupid",
+          "Dasher"
+        ]
+      },
+      {
+        "id": "q-126",
+        "category": "Christmas",
+        "question": "Which song begins 'Chestnuts roasting on an open fire'?",
+        "correct": "The Christmas Song",
+        "choices": [
+          "The Christmas Song",
+          "Silent Night",
+          "Jingle Bells",
+          "White Christmas"
+        ]
+      },
+      {
+        "id": "q-127",
+        "category": "Christmas",
+        "question": "Which reindeer shares its name with a Valentine's symbol?",
+        "correct": "Cupid",
+        "choices": [
+          "Blitzen",
+          "Dasher",
+          "Comet",
+          "Cupid"
+        ]
+      },
+      {
+        "id": "q-128",
+        "category": "Christmas",
+        "question": "What confectionery is shaped like a cane?",
+        "correct": "Candy cane",
+        "choices": [
+          "Rock candy",
+          "Lollipop",
+          "Candy cane",
+          "Toffee twist"
+        ]
+      },
+      {
+        "id": "q-129",
+        "category": "Christmas",
+        "question": "Which country is credited with starting the Christmas tree tradition?",
+        "correct": "Germany",
+        "choices": [
+          "Austria",
+          "Germany",
+          "Italy",
+          "France"
+        ]
+      },
+      {
+        "id": "q-130",
+        "category": "Christmas",
+        "question": "What confectionery is shaped like a cane?",
+        "correct": "Candy cane",
+        "choices": [
+          "Candy cane",
+          "Lollipop",
+          "Rock candy",
+          "Toffee twist"
+        ]
+      }
+    ],
+    [
+      {
+        "id": "q-131",
+        "category": "Christmas",
+        "question": "What’s the German Christmas cake with marzipan?",
+        "correct": "Stollen",
+        "choices": [
+          "Pain d’épices",
+          "Stollen",
+          "Panforte",
+          "Kugelhopf"
+        ]
+      },
+      {
+        "id": "q-132",
+        "category": "Christmas",
+        "question": "Which country is credited with starting the Christmas tree tradition?",
+        "correct": "Germany",
+        "choices": [
+          "Germany",
+          "Italy",
+          "France",
+          "Austria"
+        ]
+      },
+      {
+        "id": "q-133",
+        "category": "Christmas",
+        "question": "Which beverage is made with milk, cream, sugar, and egg?",
+        "correct": "Eggnog",
+        "choices": [
+          "Eggnog",
+          "Horlicks",
+          "Lassi",
+          "Root beer"
+        ]
+      },
+      {
+        "id": "q-134",
+        "category": "Christmas",
+        "question": "Which animal pulls Santa’s sleigh?",
+        "correct": "Reindeer",
+        "choices": [
+          "Reindeer",
+          "Horses",
+          "Dogs",
+          "Wolves"
+        ]
+      },
+      {
+        "id": "q-135",
+        "category": "Christmas",
+        "question": "Which drink is traditionally left out for Santa in the US?",
+        "correct": "Milk",
+        "choices": [
+          "Tea",
+          "Milk",
+          "Coffee",
+          "Lemonade"
+        ]
+      },
+      {
+        "id": "q-136",
+        "category": "Christmas",
+        "question": "Which European figure is known for punishing naughty kids?",
+        "correct": "Krampus",
+        "choices": [
+          "Krampus",
+          "Belsnickel",
+          "Perchta",
+          "Zwarte Piet"
+        ]
+      },
+      {
+        "id": "q-137",
+        "category": "Christmas",
+        "question": "What’s the German Christmas cake with marzipan?",
+        "correct": "Stollen",
+        "choices": [
+          "Panforte",
+          "Kugelhopf",
+          "Pain d’épices",
+          "Stollen"
+        ]
+      },
+      {
+        "id": "q-138",
+        "category": "Christmas",
+        "question": "What is the name of the period leading up to Christmas?",
+        "correct": "Advent",
+        "choices": [
+          "Advent",
+          "Lent",
+          "Michaelmas",
+          "Epiphany"
+        ]
+      },
+      {
+        "id": "q-139",
+        "category": "Christmas",
+        "question": "What red plant is a common Christmas decoration?",
+        "correct": "Poinsettia",
+        "choices": [
+          "Poinsettia",
+          "Hibiscus",
+          "Rose",
+          "Tulip"
+        ]
+      },
+      {
+        "id": "q-140",
+        "category": "Christmas",
+        "question": "Which reindeer shares its name with a Valentine's symbol?",
+        "correct": "Cupid",
+        "choices": [
+          "Blitzen",
+          "Comet",
+          "Cupid",
+          "Dasher"
+        ]
+      }
+    ],
+    [
+      {
+        "id": "q-141",
+        "category": "Christmas",
+        "question": "Rudolph’s nose is what color?",
+        "correct": "Red",
+        "choices": [
+          "Blue",
+          "Gold",
+          "Green",
+          "Red"
+        ]
+      },
+      {
+        "id": "q-142",
+        "category": "Christmas",
+        "question": "Rudolph’s nose is what color?",
+        "correct": "Red",
+        "choices": [
+          "Red",
+          "Gold",
+          "Green",
+          "Blue"
+        ]
+      },
+      {
+        "id": "q-143",
+        "category": "Christmas",
+        "question": "Which reindeer shares its name with a Valentine's symbol?",
+        "correct": "Cupid",
+        "choices": [
+          "Blitzen",
+          "Dasher",
+          "Comet",
+          "Cupid"
+        ]
+      },
+      {
+        "id": "q-144",
+        "category": "Christmas",
+        "question": "Which animal pulls Santa’s sleigh?",
+        "correct": "Reindeer",
+        "choices": [
+          "Dogs",
+          "Wolves",
+          "Reindeer",
+          "Horses"
+        ]
+      },
+      {
+        "id": "q-145",
+        "category": "Christmas",
+        "question": "Which reindeer shares its name with a Valentine's symbol?",
+        "correct": "Cupid",
+        "choices": [
+          "Dasher",
+          "Blitzen",
+          "Comet",
+          "Cupid"
+        ]
+      },
+      {
+        "id": "q-146",
+        "category": "Christmas",
+        "question": "What’s another name for Santa Claus?",
+        "correct": "Saint Nicholas",
+        "choices": [
+          "Saint Patrick",
+          "Saint Andrew",
+          "Saint Benedict",
+          "Saint Nicholas"
+        ]
+      },
+      {
+        "id": "q-147",
+        "category": "Christmas",
+        "question": "What’s the name of the period after Christmas until Epiphany?",
+        "correct": "Twelve Days of Christmas",
+        "choices": [
+          "Yule End",
+          "Twelve Days of Christmas",
+          "Advent",
+          "Christmastide Eve"
+        ]
+      },
+      {
+        "id": "q-148",
+        "category": "Christmas",
+        "question": "'White Christmas' was popularized by which singer?",
+        "correct": "Bing Crosby",
+        "choices": [
+          "Elvis Presley",
+          "Frank Sinatra",
+          "Bing Crosby",
+          "Dean Martin"
+        ]
+      },
+      {
+        "id": "q-149",
+        "category": "Christmas",
+        "question": "Which toy soldier cracks nuts?",
+        "correct": "Nutcracker",
+        "choices": [
+          "Marionette",
+          "Jack-in-the-Box",
+          "Tin Soldier",
+          "Nutcracker"
+        ]
+      },
+      {
+        "id": "q-150",
+        "category": "Christmas",
+        "question": "Which animal pulls Santa’s sleigh?",
+        "correct": "Reindeer",
+        "choices": [
+          "Horses",
+          "Reindeer",
+          "Wolves",
+          "Dogs"
+        ]
+      }
+    ],
+    [
+      {
+        "id": "q-151",
+        "category": "Christmas",
+        "question": "What sweet bread is popular in Italy at Christmas?",
+        "correct": "Panettone",
+        "choices": [
+          "Babka",
+          "Pandoro",
+          "Panettone",
+          "Stollen"
+        ]
+      },
+      {
+        "id": "q-152",
+        "category": "Christmas",
+        "question": "Which dessert is set on fire with brandy in the UK?",
+        "correct": "Christmas pudding",
+        "choices": [
+          "Christmas pudding",
+          "Yule log",
+          "Trifle",
+          "Fruitcake"
+        ]
+      },
+      {
+        "id": "q-153",
+        "category": "Christmas",
+        "question": "'White Christmas' was popularized by which singer?",
+        "correct": "Bing Crosby",
+        "choices": [
+          "Bing Crosby",
+          "Frank Sinatra",
+          "Elvis Presley",
+          "Dean Martin"
+        ]
+      },
+      {
+        "id": "q-154",
+        "category": "Christmas",
+        "question": "What’s another name for Santa Claus?",
+        "correct": "Saint Nicholas",
+        "choices": [
+          "Saint Nicholas",
+          "Saint Andrew",
+          "Saint Patrick",
+          "Saint Benedict"
+        ]
+      },
+      {
+        "id": "q-155",
+        "category": "Christmas",
+        "question": "Which animal pulls Santa’s sleigh?",
+        "correct": "Reindeer",
+        "choices": [
+          "Reindeer",
+          "Horses",
+          "Wolves",
+          "Dogs"
+        ]
+      },
+      {
+        "id": "q-156",
+        "category": "Christmas",
+        "question": "What is the name of the period leading up to Christmas?",
+        "correct": "Advent",
+        "choices": [
+          "Michaelmas",
+          "Epiphany",
+          "Lent",
+          "Advent"
+        ]
+      },
+      {
+        "id": "q-157",
+        "category": "Christmas",
+        "question": "'Feliz Navidad' is in which language?",
+        "correct": "Spanish",
+        "choices": [
+          "French",
+          "Italian",
+          "Portuguese",
+          "Spanish"
+        ]
+      },
+      {
+        "id": "q-158",
+        "category": "Christmas",
+        "question": "Which reindeer shares its name with a Valentine's symbol?",
+        "correct": "Cupid",
+        "choices": [
+          "Dasher",
+          "Blitzen",
+          "Comet",
+          "Cupid"
+        ]
+      },
+      {
+        "id": "q-159",
+        "category": "Christmas",
+        "question": "Which figure steals Christmas in a Dr. Seuss story?",
+        "correct": "The Grinch",
+        "choices": [
+          "The Grinch",
+          "The Goblin",
+          "The Ogre",
+          "Krampus"
+        ]
+      },
+      {
+        "id": "q-160",
+        "category": "Christmas",
+        "question": "'White Christmas' was popularized by which singer?",
+        "correct": "Bing Crosby",
+        "choices": [
+          "Bing Crosby",
+          "Frank Sinatra",
+          "Dean Martin",
+          "Elvis Presley"
+        ]
+      }
+    ],
+    [
+      {
+        "id": "q-161",
+        "category": "Christmas",
+        "question": "Which beverage is made with milk, cream, sugar, and egg?",
+        "correct": "Eggnog",
+        "choices": [
+          "Horlicks",
+          "Eggnog",
+          "Lassi",
+          "Root beer"
+        ]
+      },
+      {
+        "id": "q-162",
+        "category": "Christmas",
+        "question": "Which country is St. Nicholas associated with?",
+        "correct": "Turkey",
+        "choices": [
+          "Egypt",
+          "Syria",
+          "Greece",
+          "Turkey"
+        ]
+      },
+      {
+        "id": "q-163",
+        "category": "Christmas",
+        "question": "Which country is St. Nicholas associated with?",
+        "correct": "Turkey",
+        "choices": [
+          "Syria",
+          "Greece",
+          "Egypt",
+          "Turkey"
+        ]
+      },
+      {
+        "id": "q-164",
+        "category": "Christmas",
+        "question": "What’s the German Christmas cake with marzipan?",
+        "correct": "Stollen",
+        "choices": [
+          "Kugelhopf",
+          "Panforte",
+          "Stollen",
+          "Pain d’épices"
+        ]
+      },
+      {
+        "id": "q-165",
+        "category": "Christmas",
+        "question": "Which beverage is made with milk, cream, sugar, and egg?",
+        "correct": "Eggnog",
+        "choices": [
+          "Eggnog",
+          "Root beer",
+          "Horlicks",
+          "Lassi"
+        ]
+      },
+      {
+        "id": "q-166",
+        "category": "Christmas",
+        "question": "What meat is commonly eaten at British Christmas dinners?",
+        "correct": "Turkey",
+        "choices": [
+          "Turkey",
+          "Duck",
+          "Beef",
+          "Pork"
+        ]
+      },
+      {
+        "id": "q-167",
+        "category": "Christmas",
+        "question": "What’s the German Christmas cake with marzipan?",
+        "correct": "Stollen",
+        "choices": [
+          "Panforte",
+          "Pain d’épices",
+          "Stollen",
+          "Kugelhopf"
+        ]
+      },
+      {
+        "id": "q-168",
+        "category": "Christmas",
+        "question": "What meat is commonly eaten at British Christmas dinners?",
+        "correct": "Turkey",
+        "choices": [
+          "Pork",
+          "Beef",
+          "Turkey",
+          "Duck"
+        ]
+      },
+      {
+        "id": "q-169",
+        "category": "Christmas",
+        "question": "Which song begins 'Chestnuts roasting on an open fire'?",
+        "correct": "The Christmas Song",
+        "choices": [
+          "White Christmas",
+          "Silent Night",
+          "Jingle Bells",
+          "The Christmas Song"
+        ]
+      },
+      {
+        "id": "q-170",
+        "category": "Christmas",
+        "question": "Which song begins 'Chestnuts roasting on an open fire'?",
+        "correct": "The Christmas Song",
+        "choices": [
+          "White Christmas",
+          "The Christmas Song",
+          "Silent Night",
+          "Jingle Bells"
+        ]
+      }
+    ],
+    [
+      {
+        "id": "q-171",
+        "category": "Christmas",
+        "question": "Which animal pulls Santa’s sleigh?",
+        "correct": "Reindeer",
+        "choices": [
+          "Reindeer",
+          "Horses",
+          "Wolves",
+          "Dogs"
+        ]
+      },
+      {
+        "id": "q-172",
+        "category": "Christmas",
+        "question": "Rudolph’s nose is what color?",
+        "correct": "Red",
+        "choices": [
+          "Red",
+          "Green",
+          "Gold",
+          "Blue"
+        ]
+      },
+      {
+        "id": "q-173",
+        "category": "Christmas",
+        "question": "Rudolph’s nose is what color?",
+        "correct": "Red",
+        "choices": [
+          "Gold",
+          "Red",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "id": "q-174",
+        "category": "Christmas",
+        "question": "Which animal pulls Santa’s sleigh?",
+        "correct": "Reindeer",
+        "choices": [
+          "Reindeer",
+          "Horses",
+          "Dogs",
+          "Wolves"
+        ]
+      },
+      {
+        "id": "q-175",
+        "category": "Christmas",
+        "question": "What red plant is a common Christmas decoration?",
+        "correct": "Poinsettia",
+        "choices": [
+          "Poinsettia",
+          "Hibiscus",
+          "Rose",
+          "Tulip"
+        ]
+      },
+      {
+        "id": "q-176",
+        "category": "Christmas",
+        "question": "Which animal pulls Santa’s sleigh?",
+        "correct": "Reindeer",
+        "choices": [
+          "Wolves",
+          "Dogs",
+          "Horses",
+          "Reindeer"
+        ]
+      },
+      {
+        "id": "q-177",
+        "category": "Christmas",
+        "question": "What do carolers do?",
+        "correct": "Sing from house to house",
+        "choices": [
+          "Sing from house to house",
+          "Light fireworks",
+          "Knock for gifts",
+          "Dance in streets"
+        ]
+      },
+      {
+        "id": "q-178",
+        "category": "Christmas",
+        "question": "Which toy soldier cracks nuts?",
+        "correct": "Nutcracker",
+        "choices": [
+          "Nutcracker",
+          "Jack-in-the-Box",
+          "Marionette",
+          "Tin Soldier"
+        ]
+      },
+      {
+        "id": "q-179",
+        "category": "Christmas",
+        "question": "Which toy soldier cracks nuts?",
+        "correct": "Nutcracker",
+        "choices": [
+          "Marionette",
+          "Jack-in-the-Box",
+          "Nutcracker",
+          "Tin Soldier"
+        ]
+      },
+      {
+        "id": "q-180",
+        "category": "Christmas",
+        "question": "'White Christmas' was popularized by which singer?",
+        "correct": "Bing Crosby",
+        "choices": [
+          "Bing Crosby",
+          "Elvis Presley",
+          "Frank Sinatra",
+          "Dean Martin"
+        ]
+      }
+    ],
+    [
+      {
+        "id": "q-181",
+        "category": "Christmas",
+        "question": "What’s the name of the period after Christmas until Epiphany?",
+        "correct": "Twelve Days of Christmas",
+        "choices": [
+          "Yule End",
+          "Christmastide Eve",
+          "Advent",
+          "Twelve Days of Christmas"
+        ]
+      },
+      {
+        "id": "q-182",
+        "category": "Christmas",
+        "question": "What sweet bread is popular in Italy at Christmas?",
+        "correct": "Panettone",
+        "choices": [
+          "Pandoro",
+          "Panettone",
+          "Stollen",
+          "Babka"
+        ]
+      },
+      {
+        "id": "q-183",
+        "category": "Christmas",
+        "question": "What’s another name for Santa Claus?",
+        "correct": "Saint Nicholas",
+        "choices": [
+          "Saint Patrick",
+          "Saint Benedict",
+          "Saint Andrew",
+          "Saint Nicholas"
+        ]
+      },
+      {
+        "id": "q-184",
+        "category": "Christmas",
+        "question": "What meat is commonly eaten at British Christmas dinners?",
+        "correct": "Turkey",
+        "choices": [
+          "Beef",
+          "Duck",
+          "Pork",
+          "Turkey"
+        ]
+      },
+      {
+        "id": "q-185",
+        "category": "Christmas",
+        "question": "What do you hang by the fireplace?",
+        "correct": "Stockings",
+        "choices": [
+          "Gloves",
+          "Hats",
+          "Scarves",
+          "Stockings"
+        ]
+      },
+      {
+        "id": "q-186",
+        "category": "Christmas",
+        "question": "Which reindeer shares its name with a Valentine's symbol?",
+        "correct": "Cupid",
+        "choices": [
+          "Blitzen",
+          "Comet",
+          "Cupid",
+          "Dasher"
+        ]
+      },
+      {
+        "id": "q-187",
+        "category": "Christmas",
+        "question": "What’s the name of the period after Christmas until Epiphany?",
+        "correct": "Twelve Days of Christmas",
+        "choices": [
+          "Twelve Days of Christmas",
+          "Yule End",
+          "Advent",
+          "Christmastide Eve"
+        ]
+      },
+      {
+        "id": "q-188",
+        "category": "Christmas",
+        "question": "What’s the name of the period after Christmas until Epiphany?",
+        "correct": "Twelve Days of Christmas",
+        "choices": [
+          "Advent",
+          "Twelve Days of Christmas",
+          "Yule End",
+          "Christmastide Eve"
+        ]
+      },
+      {
+        "id": "q-189",
+        "category": "Christmas",
+        "question": "What do British children traditionally leave for Santa?",
+        "correct": "Mince pie",
+        "choices": [
+          "Croissant",
+          "Apple pie",
+          "Cupcake",
+          "Mince pie"
+        ]
+      },
+      {
+        "id": "q-190",
+        "category": "Christmas",
+        "question": "Which animal pulls Santa’s sleigh?",
+        "correct": "Reindeer",
+        "choices": [
+          "Dogs",
+          "Wolves",
+          "Horses",
+          "Reindeer"
+        ]
+      }
+    ],
+    [
+      {
+        "id": "q-191",
+        "category": "Christmas",
+        "question": "Which animal pulls Santa’s sleigh?",
+        "correct": "Reindeer",
+        "choices": [
+          "Reindeer",
+          "Horses",
+          "Dogs",
+          "Wolves"
+        ]
+      },
+      {
+        "id": "q-192",
+        "category": "Christmas",
+        "question": "Which country is credited with starting the Christmas tree tradition?",
+        "correct": "Germany",
+        "choices": [
+          "Germany",
+          "France",
+          "Italy",
+          "Austria"
+        ]
+      },
+      {
+        "id": "q-193",
+        "category": "Christmas",
+        "question": "What red plant is a common Christmas decoration?",
+        "correct": "Poinsettia",
+        "choices": [
+          "Poinsettia",
+          "Hibiscus",
+          "Rose",
+          "Tulip"
+        ]
+      },
+      {
+        "id": "q-194",
+        "category": "Christmas",
+        "question": "Which city hosts a famous Christmas market in Germany?",
+        "correct": "Nuremberg",
+        "choices": [
+          "Berlin",
+          "Munich",
+          "Nuremberg",
+          "Hamburg"
+        ]
+      },
+      {
+        "id": "q-195",
+        "category": "Christmas",
+        "question": "What do carolers do?",
+        "correct": "Sing from house to house",
+        "choices": [
+          "Light fireworks",
+          "Knock for gifts",
+          "Dance in streets",
+          "Sing from house to house"
+        ]
+      },
+      {
+        "id": "q-196",
+        "category": "Christmas",
+        "question": "Which plant do people kiss under?",
+        "correct": "Mistletoe",
+        "choices": [
+          "Laurel",
+          "Mistletoe",
+          "Holly",
+          "Ivy"
+        ]
+      },
+      {
+        "id": "q-197",
+        "category": "Christmas",
+        "question": "Which city hosts a famous Christmas market in Germany?",
+        "correct": "Nuremberg",
+        "choices": [
+          "Hamburg",
+          "Berlin",
+          "Munich",
+          "Nuremberg"
+        ]
+      },
+      {
+        "id": "q-198",
+        "category": "Christmas",
+        "question": "Which drink is traditionally left out for Santa in the US?",
+        "correct": "Milk",
+        "choices": [
+          "Lemonade",
+          "Coffee",
+          "Tea",
+          "Milk"
+        ]
+      },
+      {
+        "id": "q-199",
+        "category": "Christmas",
+        "question": "What is the day after Christmas called in the UK?",
+        "correct": "Boxing Day",
+        "choices": [
+          "Charity Day",
+          "St. Stephen’s Day",
+          "Gift Day",
+          "Boxing Day"
+        ]
+      },
+      {
+        "id": "q-200",
+        "category": "Christmas",
+        "question": "'White Christmas' was popularized by which singer?",
+        "correct": "Bing Crosby",
+        "choices": [
+          "Elvis Presley",
+          "Bing Crosby",
+          "Frank Sinatra",
+          "Dean Martin"
+        ]
+      }
+    ],
+    [
+      {
+        "id": "q-201",
+        "category": "Christmas",
+        "question": "Which plant do people kiss under?",
+        "correct": "Mistletoe",
+        "choices": [
+          "Ivy",
+          "Holly",
+          "Laurel",
+          "Mistletoe"
+        ]
+      },
+      {
+        "id": "q-202",
+        "category": "Christmas",
+        "question": "What spice is often used in gingerbread?",
+        "correct": "Ginger",
+        "choices": [
+          "Paprika",
+          "Turmeric",
+          "Ginger",
+          "Saffron"
+        ]
+      },
+      {
+        "id": "q-203",
+        "category": "Christmas",
+        "question": "Which reindeer shares its name with a Valentine's symbol?",
+        "correct": "Cupid",
+        "choices": [
+          "Blitzen",
+          "Dasher",
+          "Comet",
+          "Cupid"
+        ]
+      },
+      {
+        "id": "q-204",
+        "category": "Christmas",
+        "question": "What’s another name for Santa Claus?",
+        "correct": "Saint Nicholas",
+        "choices": [
+          "Saint Andrew",
+          "Saint Nicholas",
+          "Saint Patrick",
+          "Saint Benedict"
+        ]
+      },
+      {
+        "id": "q-205",
+        "category": "Christmas",
+        "question": "What do carolers do?",
+        "correct": "Sing from house to house",
+        "choices": [
+          "Dance in streets",
+          "Sing from house to house",
+          "Knock for gifts",
+          "Light fireworks"
+        ]
+      },
+      {
+        "id": "q-206",
+        "category": "Christmas",
+        "question": "What’s another name for Santa Claus?",
+        "correct": "Saint Nicholas",
+        "choices": [
+          "Saint Patrick",
+          "Saint Andrew",
+          "Saint Benedict",
+          "Saint Nicholas"
+        ]
+      },
+      {
+        "id": "q-207",
+        "category": "Christmas",
+        "question": "What do British children traditionally leave for Santa?",
+        "correct": "Mince pie",
+        "choices": [
+          "Mince pie",
+          "Croissant",
+          "Cupcake",
+          "Apple pie"
+        ]
+      },
+      {
+        "id": "q-208",
+        "category": "Christmas",
+        "question": "In 'Home Alone', where is the family going for Christmas vacation?",
+        "correct": "Paris",
+        "choices": [
+          "London",
+          "Rome",
+          "Paris",
+          "Madrid"
+        ]
+      },
+      {
+        "id": "q-209",
+        "category": "Christmas",
+        "question": "What’s the name of the period after Christmas until Epiphany?",
+        "correct": "Twelve Days of Christmas",
+        "choices": [
+          "Christmastide Eve",
+          "Advent",
+          "Twelve Days of Christmas",
+          "Yule End"
+        ]
+      },
+      {
+        "id": "q-210",
+        "category": "Christmas",
+        "question": "Rudolph’s nose is what color?",
+        "correct": "Red",
+        "choices": [
+          "Gold",
+          "Blue",
+          "Green",
+          "Red"
+        ]
+      }
+    ],
+    [
+      {
+        "id": "q-211",
+        "category": "Christmas",
+        "question": "Which song begins 'Chestnuts roasting on an open fire'?",
+        "correct": "The Christmas Song",
+        "choices": [
+          "White Christmas",
+          "Silent Night",
+          "Jingle Bells",
+          "The Christmas Song"
+        ]
+      },
+      {
+        "id": "q-212",
+        "category": "Christmas",
+        "question": "Which city hosts a famous Christmas market in Germany?",
+        "correct": "Nuremberg",
+        "choices": [
+          "Nuremberg",
+          "Berlin",
+          "Munich",
+          "Hamburg"
+        ]
+      },
+      {
+        "id": "q-213",
+        "category": "Christmas",
+        "question": "What is the name of the period leading up to Christmas?",
+        "correct": "Advent",
+        "choices": [
+          "Michaelmas",
+          "Epiphany",
+          "Lent",
+          "Advent"
+        ]
+      },
+      {
+        "id": "q-214",
+        "category": "Christmas",
+        "question": "Which city hosts a famous Christmas market in Germany?",
+        "correct": "Nuremberg",
+        "choices": [
+          "Nuremberg",
+          "Berlin",
+          "Hamburg",
+          "Munich"
+        ]
+      },
+      {
+        "id": "q-215",
+        "category": "Christmas",
+        "question": "'Feliz Navidad' is in which language?",
+        "correct": "Spanish",
+        "choices": [
+          "French",
+          "Portuguese",
+          "Spanish",
+          "Italian"
+        ]
+      },
+      {
+        "id": "q-216",
+        "category": "Christmas",
+        "question": "What red plant is a common Christmas decoration?",
+        "correct": "Poinsettia",
+        "choices": [
+          "Hibiscus",
+          "Tulip",
+          "Rose",
+          "Poinsettia"
+        ]
+      },
+      {
+        "id": "q-217",
+        "category": "Christmas",
+        "question": "Which animal pulls Santa’s sleigh?",
+        "correct": "Reindeer",
+        "choices": [
+          "Wolves",
+          "Dogs",
+          "Horses",
+          "Reindeer"
+        ]
+      },
+      {
+        "id": "q-218",
+        "category": "Christmas",
+        "question": "Which song begins 'Chestnuts roasting on an open fire'?",
+        "correct": "The Christmas Song",
+        "choices": [
+          "The Christmas Song",
+          "Silent Night",
+          "White Christmas",
+          "Jingle Bells"
+        ]
+      },
+      {
+        "id": "q-219",
+        "category": "Christmas",
+        "question": "Which country is credited with starting the Christmas tree tradition?",
+        "correct": "Germany",
+        "choices": [
+          "Italy",
+          "Germany",
+          "Austria",
+          "France"
+        ]
+      },
+      {
+        "id": "q-220",
+        "category": "Christmas",
+        "question": "'Feliz Navidad' is in which language?",
+        "correct": "Spanish",
+        "choices": [
+          "Spanish",
+          "Portuguese",
+          "Italian",
+          "French"
+        ]
+      }
+    ],
+    [
+      {
+        "id": "q-221",
+        "category": "Christmas",
+        "question": "Which toy soldier cracks nuts?",
+        "correct": "Nutcracker",
+        "choices": [
+          "Tin Soldier",
+          "Marionette",
+          "Nutcracker",
+          "Jack-in-the-Box"
+        ]
+      },
+      {
+        "id": "q-222",
+        "category": "Christmas",
+        "question": "What’s another name for Santa Claus?",
+        "correct": "Saint Nicholas",
+        "choices": [
+          "Saint Nicholas",
+          "Saint Benedict",
+          "Saint Andrew",
+          "Saint Patrick"
+        ]
+      },
+      {
+        "id": "q-223",
+        "category": "Christmas",
+        "question": "In 'Home Alone', where is the family going for Christmas vacation?",
+        "correct": "Paris",
+        "choices": [
+          "Madrid",
+          "Paris",
+          "London",
+          "Rome"
+        ]
+      },
+      {
+        "id": "q-224",
+        "category": "Christmas",
+        "question": "What red plant is a common Christmas decoration?",
+        "correct": "Poinsettia",
+        "choices": [
+          "Tulip",
+          "Rose",
+          "Hibiscus",
+          "Poinsettia"
+        ]
+      },
+      {
+        "id": "q-225",
+        "category": "Christmas",
+        "question": "Which drink is traditionally left out for Santa in the US?",
+        "correct": "Milk",
+        "choices": [
+          "Milk",
+          "Lemonade",
+          "Coffee",
+          "Tea"
+        ]
+      },
+      {
+        "id": "q-226",
+        "category": "Christmas",
+        "question": "Which animal pulls Santa’s sleigh?",
+        "correct": "Reindeer",
+        "choices": [
+          "Reindeer",
+          "Wolves",
+          "Horses",
+          "Dogs"
+        ]
+      },
+      {
+        "id": "q-227",
+        "category": "Christmas",
+        "question": "Which plant do people kiss under?",
+        "correct": "Mistletoe",
+        "choices": [
+          "Mistletoe",
+          "Laurel",
+          "Holly",
+          "Ivy"
+        ]
+      },
+      {
+        "id": "q-228",
+        "category": "Christmas",
+        "question": "What sweet bread is popular in Italy at Christmas?",
+        "correct": "Panettone",
+        "choices": [
+          "Babka",
+          "Pandoro",
+          "Stollen",
+          "Panettone"
+        ]
+      },
+      {
+        "id": "q-229",
+        "category": "Christmas",
+        "question": "Rudolph’s nose is what color?",
+        "correct": "Red",
+        "choices": [
+          "Blue",
+          "Gold",
+          "Green",
+          "Red"
+        ]
+      },
+      {
+        "id": "q-230",
+        "category": "Christmas",
+        "question": "Which reindeer shares its name with a Valentine's symbol?",
+        "correct": "Cupid",
+        "choices": [
+          "Cupid",
+          "Comet",
+          "Dasher",
+          "Blitzen"
+        ]
+      }
+    ],
+    [
+      {
+        "id": "q-231",
+        "category": "Christmas",
+        "question": "What sweet bread is popular in Italy at Christmas?",
+        "correct": "Panettone",
+        "choices": [
+          "Stollen",
+          "Pandoro",
+          "Panettone",
+          "Babka"
+        ]
+      },
+      {
+        "id": "q-232",
+        "category": "Christmas",
+        "question": "Which animal pulls Santa’s sleigh?",
+        "correct": "Reindeer",
+        "choices": [
+          "Reindeer",
+          "Wolves",
+          "Dogs",
+          "Horses"
+        ]
+      },
+      {
+        "id": "q-233",
+        "category": "Christmas",
+        "question": "What’s the name of the period after Christmas until Epiphany?",
+        "correct": "Twelve Days of Christmas",
+        "choices": [
+          "Advent",
+          "Twelve Days of Christmas",
+          "Christmastide Eve",
+          "Yule End"
+        ]
+      },
+      {
+        "id": "q-234",
+        "category": "Christmas",
+        "question": "What do you hang by the fireplace?",
+        "correct": "Stockings",
+        "choices": [
+          "Hats",
+          "Gloves",
+          "Stockings",
+          "Scarves"
+        ]
+      },
+      {
+        "id": "q-235",
+        "category": "Christmas",
+        "question": "What’s the name of the period after Christmas until Epiphany?",
+        "correct": "Twelve Days of Christmas",
+        "choices": [
+          "Twelve Days of Christmas",
+          "Advent",
+          "Christmastide Eve",
+          "Yule End"
+        ]
+      },
+      {
+        "id": "q-236",
+        "category": "Christmas",
+        "question": "Which figure steals Christmas in a Dr. Seuss story?",
+        "correct": "The Grinch",
+        "choices": [
+          "Krampus",
+          "The Goblin",
+          "The Ogre",
+          "The Grinch"
+        ]
+      },
+      {
+        "id": "q-237",
+        "category": "Christmas",
+        "question": "Which country is credited with starting the Christmas tree tradition?",
+        "correct": "Germany",
+        "choices": [
+          "Germany",
+          "Italy",
+          "France",
+          "Austria"
+        ]
+      },
+      {
+        "id": "q-238",
+        "category": "Christmas",
+        "question": "Which song begins 'Chestnuts roasting on an open fire'?",
+        "correct": "The Christmas Song",
+        "choices": [
+          "White Christmas",
+          "Silent Night",
+          "Jingle Bells",
+          "The Christmas Song"
+        ]
+      },
+      {
+        "id": "q-239",
+        "category": "Christmas",
+        "question": "'Feliz Navidad' is in which language?",
+        "correct": "Spanish",
+        "choices": [
+          "Spanish",
+          "Portuguese",
+          "Italian",
+          "French"
+        ]
+      },
+      {
+        "id": "q-240",
+        "category": "Christmas",
+        "question": "Which figure steals Christmas in a Dr. Seuss story?",
+        "correct": "The Grinch",
+        "choices": [
+          "Krampus",
+          "The Goblin",
+          "The Grinch",
+          "The Ogre"
+        ]
+      }
+    ],
+    [
+      {
+        "id": "q-241",
+        "category": "Christmas",
+        "question": "Which toy soldier cracks nuts?",
+        "correct": "Nutcracker",
+        "choices": [
+          "Tin Soldier",
+          "Nutcracker",
+          "Jack-in-the-Box",
+          "Marionette"
+        ]
+      },
+      {
+        "id": "q-242",
+        "category": "Christmas",
+        "question": "Which toy soldier cracks nuts?",
+        "correct": "Nutcracker",
+        "choices": [
+          "Tin Soldier",
+          "Jack-in-the-Box",
+          "Nutcracker",
+          "Marionette"
+        ]
+      },
+      {
+        "id": "q-243",
+        "category": "Christmas",
+        "question": "What’s another name for Santa Claus?",
+        "correct": "Saint Nicholas",
+        "choices": [
+          "Saint Benedict",
+          "Saint Nicholas",
+          "Saint Andrew",
+          "Saint Patrick"
+        ]
+      },
+      {
+        "id": "q-244",
+        "category": "Christmas",
+        "question": "What do carolers do?",
+        "correct": "Sing from house to house",
+        "choices": [
+          "Dance in streets",
+          "Knock for gifts",
+          "Sing from house to house",
+          "Light fireworks"
+        ]
+      },
+      {
+        "id": "q-245",
+        "category": "Christmas",
+        "question": "'Feliz Navidad' is in which language?",
+        "correct": "Spanish",
+        "choices": [
+          "French",
+          "Italian",
+          "Portuguese",
+          "Spanish"
+        ]
+      },
+      {
+        "id": "q-246",
+        "category": "Christmas",
+        "question": "Which city hosts a famous Christmas market in Germany?",
+        "correct": "Nuremberg",
+        "choices": [
+          "Nuremberg",
+          "Hamburg",
+          "Berlin",
+          "Munich"
+        ]
+      },
+      {
+        "id": "q-247",
+        "category": "Christmas",
+        "question": "Which beverage is made with milk, cream, sugar, and egg?",
+        "correct": "Eggnog",
+        "choices": [
+          "Root beer",
+          "Eggnog",
+          "Horlicks",
+          "Lassi"
+        ]
+      },
+      {
+        "id": "q-248",
+        "category": "Christmas",
+        "question": "What red plant is a common Christmas decoration?",
+        "correct": "Poinsettia",
+        "choices": [
+          "Poinsettia",
+          "Hibiscus",
+          "Rose",
+          "Tulip"
+        ]
+      },
+      {
+        "id": "q-249",
+        "category": "Christmas",
+        "question": "What do British children traditionally leave for Santa?",
+        "correct": "Mince pie",
+        "choices": [
+          "Mince pie",
+          "Cupcake",
+          "Croissant",
+          "Apple pie"
+        ]
+      },
+      {
+        "id": "q-250",
+        "category": "Christmas",
+        "question": "'White Christmas' was popularized by which singer?",
+        "correct": "Bing Crosby",
+        "choices": [
+          "Bing Crosby",
+          "Frank Sinatra",
+          "Dean Martin",
+          "Elvis Presley"
+        ]
+      }
+    ],
+    [
+      {
+        "id": "q-251",
+        "category": "Christmas",
+        "question": "What is the name of the period leading up to Christmas?",
+        "correct": "Advent",
+        "choices": [
+          "Epiphany",
+          "Lent",
+          "Michaelmas",
+          "Advent"
+        ]
+      },
+      {
+        "id": "q-252",
+        "category": "Christmas",
+        "question": "Which song begins 'Chestnuts roasting on an open fire'?",
+        "correct": "The Christmas Song",
+        "choices": [
+          "White Christmas",
+          "Silent Night",
+          "Jingle Bells",
+          "The Christmas Song"
+        ]
+      },
+      {
+        "id": "q-253",
+        "category": "Christmas",
+        "question": "Which European figure is known for punishing naughty kids?",
+        "correct": "Krampus",
+        "choices": [
+          "Krampus",
+          "Belsnickel",
+          "Perchta",
+          "Zwarte Piet"
+        ]
+      },
+      {
+        "id": "q-254",
+        "category": "Christmas",
+        "question": "What red plant is a common Christmas decoration?",
+        "correct": "Poinsettia",
+        "choices": [
+          "Rose",
+          "Poinsettia",
+          "Hibiscus",
+          "Tulip"
+        ]
+      },
+      {
+        "id": "q-255",
+        "category": "Christmas",
+        "question": "Which reindeer shares its name with a Valentine's symbol?",
+        "correct": "Cupid",
+        "choices": [
+          "Dasher",
+          "Cupid",
+          "Blitzen",
+          "Comet"
+        ]
+      },
+      {
+        "id": "q-256",
+        "category": "Christmas",
+        "question": "What do you hang by the fireplace?",
+        "correct": "Stockings",
+        "choices": [
+          "Stockings",
+          "Gloves",
+          "Hats",
+          "Scarves"
+        ]
+      },
+      {
+        "id": "q-257",
+        "category": "Christmas",
+        "question": "Which country is St. Nicholas associated with?",
+        "correct": "Turkey",
+        "choices": [
+          "Egypt",
+          "Greece",
+          "Turkey",
+          "Syria"
+        ]
+      },
+      {
+        "id": "q-258",
+        "category": "Christmas",
+        "question": "'Feliz Navidad' is in which language?",
+        "correct": "Spanish",
+        "choices": [
+          "Spanish",
+          "Portuguese",
+          "Italian",
+          "French"
+        ]
+      },
+      {
+        "id": "q-259",
+        "category": "Christmas",
+        "question": "What is the day after Christmas called in the UK?",
+        "correct": "Boxing Day",
+        "choices": [
+          "Boxing Day",
+          "Gift Day",
+          "Charity Day",
+          "St. Stephen’s Day"
+        ]
+      },
+      {
+        "id": "q-260",
+        "category": "Christmas",
+        "question": "Which dessert is set on fire with brandy in the UK?",
+        "correct": "Christmas pudding",
+        "choices": [
+          "Christmas pudding",
+          "Fruitcake",
+          "Trifle",
+          "Yule log"
+        ]
+      }
+    ],
+    [
+      {
+        "id": "q-261",
+        "category": "Christmas",
+        "question": "Which song begins 'Chestnuts roasting on an open fire'?",
+        "correct": "The Christmas Song",
+        "choices": [
+          "Silent Night",
+          "The Christmas Song",
+          "White Christmas",
+          "Jingle Bells"
+        ]
+      },
+      {
+        "id": "q-262",
+        "category": "Christmas",
+        "question": "Which beverage is made with milk, cream, sugar, and egg?",
+        "correct": "Eggnog",
+        "choices": [
+          "Horlicks",
+          "Root beer",
+          "Eggnog",
+          "Lassi"
+        ]
+      },
+      {
+        "id": "q-263",
+        "category": "Christmas",
+        "question": "In 'Home Alone', where is the family going for Christmas vacation?",
+        "correct": "Paris",
+        "choices": [
+          "Rome",
+          "Madrid",
+          "London",
+          "Paris"
+        ]
+      },
+      {
+        "id": "q-264",
+        "category": "Christmas",
+        "question": "What’s the name of the period after Christmas until Epiphany?",
+        "correct": "Twelve Days of Christmas",
+        "choices": [
+          "Christmastide Eve",
+          "Advent",
+          "Twelve Days of Christmas",
+          "Yule End"
+        ]
+      },
+      {
+        "id": "q-265",
+        "category": "Christmas",
+        "question": "What spice is often used in gingerbread?",
+        "correct": "Ginger",
+        "choices": [
+          "Turmeric",
+          "Paprika",
+          "Saffron",
+          "Ginger"
+        ]
+      },
+      {
+        "id": "q-266",
+        "category": "Christmas",
+        "question": "What confectionery is shaped like a cane?",
+        "correct": "Candy cane",
+        "choices": [
+          "Candy cane",
+          "Toffee twist",
+          "Lollipop",
+          "Rock candy"
+        ]
+      },
+      {
+        "id": "q-267",
+        "category": "Christmas",
+        "question": "'Feliz Navidad' is in which language?",
+        "correct": "Spanish",
+        "choices": [
+          "French",
+          "Italian",
+          "Portuguese",
+          "Spanish"
+        ]
+      },
+      {
+        "id": "q-268",
+        "category": "Christmas",
+        "question": "Which European figure is known for punishing naughty kids?",
+        "correct": "Krampus",
+        "choices": [
+          "Zwarte Piet",
+          "Perchta",
+          "Belsnickel",
+          "Krampus"
+        ]
+      },
+      {
+        "id": "q-269",
+        "category": "Christmas",
+        "question": "Which figure steals Christmas in a Dr. Seuss story?",
+        "correct": "The Grinch",
+        "choices": [
+          "The Ogre",
+          "Krampus",
+          "The Grinch",
+          "The Goblin"
+        ]
+      },
+      {
+        "id": "q-270",
+        "category": "Christmas",
+        "question": "What do carolers do?",
+        "correct": "Sing from house to house",
+        "choices": [
+          "Light fireworks",
+          "Knock for gifts",
+          "Dance in streets",
+          "Sing from house to house"
+        ]
+      }
+    ],
+    [
+      {
+        "id": "q-271",
+        "category": "Christmas",
+        "question": "What is the day after Christmas called in the UK?",
+        "correct": "Boxing Day",
+        "choices": [
+          "Boxing Day",
+          "Charity Day",
+          "Gift Day",
+          "St. Stephen’s Day"
+        ]
+      },
+      {
+        "id": "q-272",
+        "category": "Christmas",
+        "question": "Which reindeer shares its name with a Valentine's symbol?",
+        "correct": "Cupid",
+        "choices": [
+          "Cupid",
+          "Dasher",
+          "Comet",
+          "Blitzen"
+        ]
+      },
+      {
+        "id": "q-273",
+        "category": "Christmas",
+        "question": "What sweet bread is popular in Italy at Christmas?",
+        "correct": "Panettone",
+        "choices": [
+          "Panettone",
+          "Stollen",
+          "Babka",
+          "Pandoro"
+        ]
+      },
+      {
+        "id": "q-274",
+        "category": "Christmas",
+        "question": "What do you hang by the fireplace?",
+        "correct": "Stockings",
+        "choices": [
+          "Gloves",
+          "Scarves",
+          "Stockings",
+          "Hats"
+        ]
+      },
+      {
+        "id": "q-275",
+        "category": "Christmas",
+        "question": "Which drink is traditionally left out for Santa in the US?",
+        "correct": "Milk",
+        "choices": [
+          "Milk",
+          "Tea",
+          "Coffee",
+          "Lemonade"
+        ]
+      },
+      {
+        "id": "q-276",
+        "category": "Christmas",
+        "question": "What sweet bread is popular in Italy at Christmas?",
+        "correct": "Panettone",
+        "choices": [
+          "Pandoro",
+          "Babka",
+          "Stollen",
+          "Panettone"
+        ]
+      },
+      {
+        "id": "q-277",
+        "category": "Christmas",
+        "question": "What red plant is a common Christmas decoration?",
+        "correct": "Poinsettia",
+        "choices": [
+          "Poinsettia",
+          "Hibiscus",
+          "Rose",
+          "Tulip"
+        ]
+      },
+      {
+        "id": "q-278",
+        "category": "Christmas",
+        "question": "'White Christmas' was popularized by which singer?",
+        "correct": "Bing Crosby",
+        "choices": [
+          "Bing Crosby",
+          "Frank Sinatra",
+          "Dean Martin",
+          "Elvis Presley"
+        ]
+      },
+      {
+        "id": "q-279",
+        "category": "Christmas",
+        "question": "Rudolph’s nose is what color?",
+        "correct": "Red",
+        "choices": [
+          "Red",
+          "Green",
+          "Gold",
+          "Blue"
+        ]
+      },
+      {
+        "id": "q-280",
+        "category": "Christmas",
+        "question": "What’s the name of the period after Christmas until Epiphany?",
+        "correct": "Twelve Days of Christmas",
+        "choices": [
+          "Yule End",
+          "Twelve Days of Christmas",
+          "Christmastide Eve",
+          "Advent"
+        ]
+      }
+    ],
+    [
+      {
+        "id": "q-281",
+        "category": "Christmas",
+        "question": "Which country is St. Nicholas associated with?",
+        "correct": "Turkey",
+        "choices": [
+          "Turkey",
+          "Greece",
+          "Syria",
+          "Egypt"
+        ]
+      },
+      {
+        "id": "q-282",
+        "category": "Christmas",
+        "question": "What do you hang by the fireplace?",
+        "correct": "Stockings",
+        "choices": [
+          "Hats",
+          "Gloves",
+          "Scarves",
+          "Stockings"
+        ]
+      },
+      {
+        "id": "q-283",
+        "category": "Christmas",
+        "question": "Which plant do people kiss under?",
+        "correct": "Mistletoe",
+        "choices": [
+          "Mistletoe",
+          "Holly",
+          "Ivy",
+          "Laurel"
+        ]
+      },
+      {
+        "id": "q-284",
+        "category": "Christmas",
+        "question": "Which country is St. Nicholas associated with?",
+        "correct": "Turkey",
+        "choices": [
+          "Turkey",
+          "Greece",
+          "Egypt",
+          "Syria"
+        ]
+      },
+      {
+        "id": "q-285",
+        "category": "Christmas",
+        "question": "Which city hosts a famous Christmas market in Germany?",
+        "correct": "Nuremberg",
+        "choices": [
+          "Hamburg",
+          "Nuremberg",
+          "Berlin",
+          "Munich"
+        ]
+      },
+      {
+        "id": "q-286",
+        "category": "Christmas",
+        "question": "What’s the name of the period after Christmas until Epiphany?",
+        "correct": "Twelve Days of Christmas",
+        "choices": [
+          "Yule End",
+          "Twelve Days of Christmas",
+          "Christmastide Eve",
+          "Advent"
+        ]
+      },
+      {
+        "id": "q-287",
+        "category": "Christmas",
+        "question": "Which city hosts a famous Christmas market in Germany?",
+        "correct": "Nuremberg",
+        "choices": [
+          "Nuremberg",
+          "Berlin",
+          "Munich",
+          "Hamburg"
+        ]
+      },
+      {
+        "id": "q-288",
+        "category": "Christmas",
+        "question": "What’s the name of the period after Christmas until Epiphany?",
+        "correct": "Twelve Days of Christmas",
+        "choices": [
+          "Yule End",
+          "Twelve Days of Christmas",
+          "Advent",
+          "Christmastide Eve"
+        ]
+      },
+      {
+        "id": "q-289",
+        "category": "Christmas",
+        "question": "What do carolers do?",
+        "correct": "Sing from house to house",
+        "choices": [
+          "Knock for gifts",
+          "Light fireworks",
+          "Dance in streets",
+          "Sing from house to house"
+        ]
+      },
+      {
+        "id": "q-290",
+        "category": "Christmas",
+        "question": "'White Christmas' was popularized by which singer?",
+        "correct": "Bing Crosby",
+        "choices": [
+          "Elvis Presley",
+          "Dean Martin",
+          "Frank Sinatra",
+          "Bing Crosby"
+        ]
+      }
+    ],
+    [
+      {
+        "id": "q-291",
+        "category": "Christmas",
+        "question": "Which dessert is set on fire with brandy in the UK?",
+        "correct": "Christmas pudding",
+        "choices": [
+          "Yule log",
+          "Trifle",
+          "Fruitcake",
+          "Christmas pudding"
+        ]
+      },
+      {
+        "id": "q-292",
+        "category": "Christmas",
+        "question": "What’s another name for Santa Claus?",
+        "correct": "Saint Nicholas",
+        "choices": [
+          "Saint Patrick",
+          "Saint Andrew",
+          "Saint Benedict",
+          "Saint Nicholas"
+        ]
+      },
+      {
+        "id": "q-293",
+        "category": "Christmas",
+        "question": "Which reindeer shares its name with a Valentine's symbol?",
+        "correct": "Cupid",
+        "choices": [
+          "Comet",
+          "Cupid",
+          "Blitzen",
+          "Dasher"
+        ]
+      },
+      {
+        "id": "q-294",
+        "category": "Christmas",
+        "question": "What do you hang by the fireplace?",
+        "correct": "Stockings",
+        "choices": [
+          "Hats",
+          "Gloves",
+          "Scarves",
+          "Stockings"
+        ]
+      },
+      {
+        "id": "q-295",
+        "category": "Christmas",
+        "question": "What do carolers do?",
+        "correct": "Sing from house to house",
+        "choices": [
+          "Sing from house to house",
+          "Light fireworks",
+          "Dance in streets",
+          "Knock for gifts"
+        ]
+      },
+      {
+        "id": "q-296",
+        "category": "Christmas",
+        "question": "What spice is often used in gingerbread?",
+        "correct": "Ginger",
+        "choices": [
+          "Saffron",
+          "Ginger",
+          "Turmeric",
+          "Paprika"
+        ]
+      },
+      {
+        "id": "q-297",
+        "category": "Christmas",
+        "question": "Which reindeer shares its name with a Valentine's symbol?",
+        "correct": "Cupid",
+        "choices": [
+          "Cupid",
+          "Blitzen",
+          "Comet",
+          "Dasher"
+        ]
+      },
+      {
+        "id": "q-298",
+        "category": "Christmas",
+        "question": "What do British children traditionally leave for Santa?",
+        "correct": "Mince pie",
+        "choices": [
+          "Cupcake",
+          "Mince pie",
+          "Croissant",
+          "Apple pie"
+        ]
+      },
+      {
+        "id": "q-299",
+        "category": "Christmas",
+        "question": "What do British children traditionally leave for Santa?",
+        "correct": "Mince pie",
+        "choices": [
+          "Apple pie",
+          "Mince pie",
+          "Cupcake",
+          "Croissant"
+        ]
+      },
+      {
+        "id": "q-300",
+        "category": "Christmas",
+        "question": "In 'Home Alone', where is the family going for Christmas vacation?",
+        "correct": "Paris",
+        "choices": [
+          "Paris",
+          "Madrid",
+          "London",
+          "Rome"
+        ]
+      }
+    ]
+  ]
+}

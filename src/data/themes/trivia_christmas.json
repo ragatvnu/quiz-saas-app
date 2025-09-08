@@ -1,0 +1,19 @@
+{
+  "title": "Christmas Trivia",
+  "subtitle": "Family Edition",
+  "questionsPerPage": 10,
+  "items": [
+    {
+      "category": "Christmas",
+      "question": "What red plant is known as a Christmas symbol?",
+      "correct": "Poinsettia",
+      "distractors": ["Rose", "Tulip", "Orchid"]
+    },
+    {
+      "category": "Christmas",
+      "question": "In 'The Twelve Days of Christmas', what is given on the 5th day?",
+      "correct": "Five golden rings",
+      "distractors": ["Five swans", "Five candles", "Five reindeers"]
+    }
+  ]
+}

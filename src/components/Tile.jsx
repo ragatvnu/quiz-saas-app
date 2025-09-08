@@ -1,9 +1,22 @@
 import React from 'react'
+
 export default function Tile({ item, size='text-4xl' }){
   if(!item) return null
-  if(item.src){
-    return <img src={item.src} alt={item.alt||''} className="mx-auto block select-none" style={{width:'100%',height:'100%',objectFit:'contain'}}/>
+
+  // If it's just a string (emoji or word), wrap it into an object
+  const obj = (typeof item === 'string') ? { ch: item } : item
+
+  if(obj.src){
+    return (
+      <img
+        src={obj.src}
+        alt={obj.alt||''}
+        className="mx-auto block select-none"
+        style={{width:'100%',height:'100%',objectFit:'contain'}}
+      />
+    )
   }
-  const content = item.ch || item.text || item.alt || '?'
+
+  const content = obj.ch || obj.text || obj.alt || '?'
   return <span className={['leading-none select-none', size].join(' ')}>{content}</span>
 }

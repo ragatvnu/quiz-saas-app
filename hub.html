@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Puzzle Hub</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="min-h-screen bg-gray-50">
+  <div class="max-w-2xl mx-auto p-6">
+    <h1 class="text-2xl font-bold mb-1">Puzzle Hub</h1>
+    <p class="text-sm text-gray-600 mb-6">Launch, manage, and clean up quiz tabs.</p>
+
+    <div id="grid" class="grid sm:grid-cols-2 gap-3 mb-6"></div>
+
+    <div class="flex flex-wrap gap-3">
+      <button id="openAll"  class="px-4 py-2 rounded-xl border bg-white hover:bg-gray-50">Open all</button>
+      <button id="closeAll" class="px-4 py-2 rounded-xl border bg-white hover:bg-gray-50">Close all opened</button>
+      <button id="reloadAll" class="px-4 py-2 rounded-xl border bg-white hover:bg-gray-50">Reload all</button>
+      <button id="clearCache" class="px-4 py-2 rounded-xl border bg-white hover:bg-gray-50 text-red-700 border-red-300">Clear cache</button>
+    </div>
+
+    <p id="status" class="mt-4 text-xs text-gray-500"></p>
+
+    <!-- Static tiles (added Maze) -->
+    <div class="grid sm:grid-cols-2 gap-3 mt-6">
+      <div class="tile border rounded-xl p-4 bg-white shadow">
+        <h2 class="text-lg font-bold mb-2">🧠 Sudoku</h2>
+        <p class="mb-3 text-sm text-gray-600">Classic 9×9 puzzle with generator, solver, notes, and export.</p>
+        <a href="/sudoku.html" class="px-3 py-1.5 rounded-xl border bg-gray-100 hover:bg-gray-200 text-sm">Open Sudoku</a>
+      </div>
+      <div class="tile border rounded-xl p-4 bg-white shadow">
+        <h2 class="text-lg font-bold mb-2">🧩 Crossword</h2>
+        <p class="mb-3 text-sm text-gray-600">Build a small themed crossword; edit entries live.</p>
+        <a href="/crossword.html" class="px-3 py-1.5 rounded-xl border bg-gray-100 hover:bg-gray-200 text-sm">Open Crossword</a>
+      </div>
+      <div class="tile border rounded-xl p-4 bg-white shadow">
+        <h2 class="text-lg font-bold mb-2">🟧 Kakuro</h2>
+        <p class="mb-3 text-sm text-gray-600">Curated valid kakuro boards; toggle answers.</p>
+        <a href="/kakuro.html" class="px-3 py-1.5 rounded-xl border bg-gray-100 hover:bg-gray-200 text-sm">Open Kakuro</a>
+      </div>
+      <div class="tile border rounded-xl p-4 bg-white shadow">
+        <h2 class="text-lg font-bold mb-2">🌀 Maze</h2>
+        <p class="mb-3 text-sm text-gray-600">Maze quiz + answer key with adaptive answers.</p>
+        <a href="/maze.html" class="px-3 py-1.5 rounded-xl border bg-gray-100 hover:bg-gray-200 text-sm">Open Maze</a>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const opened = [];
+    const status = (msg) => {
+      const el = document.getElementById('status'); const ts = new Date().toLocaleTimeString();
+      el.textContent = '['+ts+'] '+msg;
+      console.log('[Hub]', msg);
+    };
+    let pages = [];
+
+    async function loadPages(){
+      try{
+        const res = await fetch('/pages.json', { cache:'no-store' });
+        if(!res.ok) throw new Error('HTTP '+res.status);
+        const json = await res.json();
+        pages = (json.pages||[]).sort((a,b)=>a.title.localeCompare(b.title));
+        renderGrid();
+        status('Loaded '+pages.length+' page(s).');
+      }catch(e){
+        // Fallback list (added Maze)
+        pages = [
+          { href:'/odd.html',       title:'Odd One Out' },
+          { href:'/word.html',      title:'Word Search' },
+          { href:'/emoji.html',     title:'Emoji Quiz' },
+          { href:'/trivia.html',    title:'Trivia' },
+          { href:'/sudoku.html',    title:'Sudoku' },
+          { href:'/crossword.html', title:'Crossword' },
+          { href:'/kakuro.html',    title:'Kakuro' },
+          { href:'/maze.html',      title:'Maze' }
+        ];
+        renderGrid();
+        status('pages.json not found; using fallback list.');
+      }
+    }
+
+    function renderGrid(){
+      const grid = document.getElementById('grid');
+      grid.innerHTML = '';
+      for(const p of pages){
+        const a = document.createElement('a');
+        a.className = 'block p-4 rounded-xl border bg-white hover:bg-gray-50';
+        a.href = p.href;
+        a.target = '_blank';
+        a.textContent = p.title;
+        grid.appendChild(a);
+      }
+    }
+
+    document.getElementById('openAll').addEventListener('click', ()=>{
+      pages.forEach(p=>{
+        const w = window.open(p.href, '_blank');
+        if(w) opened.push(w);
+      });
+      status('Opened '+opened.length+' tab(s).');
+    });
+    document.getElementById('closeAll').addEventListener('click', ()=>{
+      let closed=0;
+      for(let i=opened.length-1;i>=0;i--){
+        try{ if(opened[i] && !opened[i].closed){ opened[i].close(); closed++; } }catch{}
+        opened.splice(i,1);
+      }
+      status('Requested close for '+closed+' tab(s).');
+    });
+    document.getElementById('reloadAll').addEventListener('click', ()=>{
+      let n=0;
+      opened.forEach(w=>{ try{ if(w && !w.closed){ w.location.reload(); n++; } }catch{} });
+      status('Reloaded '+n+' tab(s).');
+    });
+    document.getElementById('clearCache').addEventListener('click', async ()=>{
+      try{
+        try{ localStorage.clear(); }catch{}
+        try{ localStorage.setItem('HUB_CLEAR', String(Date.now())); localStorage.removeItem('HUB_CLEAR'); }catch{}
+        if(window.caches && caches.keys){
+          const ks = await caches.keys(); await Promise.all(ks.map(k=>caches.delete(k)));
+        }
+        if(window.indexedDB && indexedDB.databases){
+          const dbs = await indexedDB.databases();
+          await Promise.all(dbs.map(d=> d?.name ? new Promise(res=>{
+            const req = indexedDB.deleteDatabase(d.name); req.onsuccess=req.onerror=req.onblocked=()=>res();
+          }) : Promise.resolve()));
+        }
+        opened.forEach(w=>{ try{ if(w && !w.closed) w.postMessage({type:'HUB_CLEAR'}, '*'); }catch{} });
+        status('Cache cleared.');
+      }catch(e){ status('Clear cache error: '+(e?.message||e)); }
+    });
+
+    loadPages();
+  </script>
+</body>
+</html>

@@ -1,0 +1,7 @@
+{
+  "title": "Word Search – Jungle Animals",
+  "subtitle": "Find the hidden animals (H & V only)",
+  "grid": { "rows": 12, "cols": 12 },
+  "options": { "directions": ["H","V"], "allowReverse": false },
+  "word_list": ["LION","TIGER","ZEBRA","BEAR","PANDA","EAGLE","CAMEL","HORSE"]
+}

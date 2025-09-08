@@ -1,25 +1,26 @@
 import React from 'react'
 
-export default function PuzzlePage({ meta, children }){
-  const page = meta.page_size || 'A4'                 // default A4
-  const width = page === 'A4' ? '210mm' : '8.5in'     // A4 or US Letter
+function s(v, fallback=''){
+  if (v == null) return fallback
+  if (typeof v === 'string' || typeof v === 'number' || typeof v === 'boolean') return String(v)
+  if (v && typeof v === 'object') {
+    if (typeof v.text === 'string') return v.text
+    if (typeof v.name === 'string') return v.name
+    try { return JSON.stringify(v) } catch {}
+  }
+  return fallback
+}
 
+export default function PuzzlePage({ meta = {}, children }){
+  const title = s(meta.title, 'Puzzle')
+  const subtitle = s(meta.subtitle, '')
   return (
-    <div className="page bg-white rounded-2xl shadow-sm border p-6 mx-auto my-6" style={{ width }}>
-      <header className="text-center mb-4">
-        {meta.logo && <img src={meta.logo} alt="Logo" className="h-6 mx-auto mb-2" />}
-        <h2 className="text-2xl font-extrabold tracking-tight">{meta.title}</h2>
-        {meta.subtitle && <p className="text-sm text-gray-600">{meta.subtitle}</p>}
+    <section className="bg-white p-6 rounded-2xl shadow-sm print:shadow-none">
+      <header className="mb-4 text-center">
+        <h2 className="text-2xl font-extrabold">{title}</h2>
+        {subtitle && <p className="text-sm text-gray-600">{subtitle}</p>}
       </header>
-
-      <main className="min-h-[200px] flex items-center justify-center">
-        {children}
-      </main>
-
-      <footer className="mt-6 flex items-center justify-between text-xs text-gray-500">
-        <span>{meta.branding || '© 2025 HMQUIZ • hmquiz.example'}</span>
-        <span>Difficulty: {meta.difficulty ?? '—'}</span>
-      </footer>
-    </div>
+      <div>{children}</div>
+    </section>
   )
 }

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "items": [
+    {"title": "Animals", "rows": 14, "cols": 14, "words": ["ELEPHANT","GIRAFFE","DOLPHIN","BUTTERFLY","KANGAROO","PENGUIN","CROCODILE","CHEETAH","SQUIRREL","RABBIT"]},
+    {"title": "Fruits", "rows": 14, "cols": 14, "words": ["APPLE","BANANA","ORANGE","MANGO","GRAPES","PINEAPPLE","PAPAYA","STRAWBERRY","LEMON","KIWI"]},
+    {"title": "Space", "rows": 14, "cols": 14, "words": ["PLANET","COMET","ORBIT","NEBULA","GALAXY","ASTEROID","METEOR","ROCKET","ASTRONAUT","SATURN"]},
+    {"title": "Sports", "rows": 14, "cols": 14, "words": ["CRICKET","FOOTBALL","HOCKEY","TENNIS","BADMINTON","VOLLEYBALL","BASKETBALL","RUGBY","GOLF","BOXING"]},
+    {"title": "Colors", "rows": 14, "cols": 14, "words": ["RED","BLUE","GREEN","YELLOW","PURPLE","VIOLET","BROWN","BLACK","WHITE","CYAN"]},
+    {"title": "Countries", "rows": 14, "cols": 14, "words": ["INDIA","CANADA","BRAZIL","FRANCE","GERMANY","ITALY","JAPAN","CHINA","AUSTRALIA","EGYPT"]},
+    {"title": "Vehicles", "rows": 14, "cols": 14, "words": ["BICYCLE","SCOOTER","MOTORCYCLE","AIRPLANE","HELICOPTER","SUBMARINE","TRACTOR","BUS","TRAIN","TRUCK"]},
+    {"title": "Body Parts", "rows": 14, "cols": 14, "words": ["HEART","LIVER","BRAIN","STOMACH","LUNGS","KIDNEY","SHOULDER","KNEE","ELBOW","FINGER"]},
+    {"title": "School", "rows": 14, "cols": 14, "words": ["TEACHER","STUDENT","CLASSROOM","NOTEBOOK","PENCIL","ERASER","BLACKBOARD","LIBRARY","SCIENCE","GEOGRAPHY"]},
+    {"title": "Ocean", "rows": 14, "cols": 14, "words": ["CORAL","SEAHORSE","OCTOPUS","WHALE","SHARK","TURTLE","SEAWEED","ANCHOR","ISLAND","CURRENT"]}
+  ]
+}
+

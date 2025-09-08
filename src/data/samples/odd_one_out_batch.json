@@ -1,0 +1,6 @@
+[
+  {"title":"Odd One Out – Animals (10×10)","theme":"Animals","rows":10,"cols":10,"mainEmoji":"🐶","oddEmoji":"🐱","oddIndex":37},
+  {"title":"Odd One Out – Fruits (8×8)","theme":"Fruits","rows":8,"cols":8,"mainEmoji":"🍎","oddEmoji":"🍐","oddIndex":12},
+  {"title":"Odd One Out – Sports (9×9)","theme":"Sports","rows":9,"cols":9,"mainEmoji":"⚽️","oddEmoji":"🏀","oddIndex":44},
+  {"title":"Odd One Out – Vehicles (6×10)","theme":"Vehicles","rows":6,"cols":10,"mainEmoji":"🚗","oddEmoji":"🏍️","oddIndex":15}
+]

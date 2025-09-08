@@ -1,0 +1,97 @@
+{
+  "theme": "Fruits",
+  "branding": "© 2025 HMQUIZ",
+  "puzzles": [
+    {
+      "id": "f1",
+      "type": "odd_one_out",
+      "title": "Odd One Out – Fruits",
+      "difficulty": "easy",
+      "grid": {
+        "rows": 10,
+        "cols": 10
+      },
+      "odd_index": 55,
+      "main_emoji": "🍎",
+      "odd_emoji": "🍌",
+      "options": {
+        "configurable": true,
+        "defaultTheme": "Fruits"
+      }
+    },
+    {
+      "id": "f2",
+      "type": "emoji_quiz",
+      "title": "Emoji Quiz – Fruit Phrase",
+      "difficulty": "easy",
+      "prompt": {
+        "tiles": [
+          "🎥",
+          "⭐"
+        ],
+        "instruction": "Guess the phrase"
+      },
+      "answer": {
+        "text": "Movie Star"
+      }
+    },
+    {
+      "id": "f3",
+      "type": "word_search",
+      "title": "Fruit Word Search",
+      "difficulty": "medium",
+      "grid": {
+        "rows": 12,
+        "cols": 12
+      },
+      "auto_layout": true,
+      "word_list": [
+        "APPLE",
+        "BANANA",
+        "GRAPE",
+        "MANGO",
+        "PEAR",
+        "LEMON",
+        "KIWI",
+        "ORANGE"
+      ],
+      "options": {
+        "allowReverse": false,
+        "directions": [
+          "H",
+          "V"
+        ],
+        "maxAttemptsPerWord": 500
+      }
+    },
+    {
+      "id": "f4",
+      "type": "fill_in_blanks",
+      "title": "Fruit Facts – Fill the Blanks",
+      "difficulty": "easy",
+      "items": [
+        {
+          "text": "A yellow fruit is ____.",
+          "answer": "BANANA",
+          "blanks": [
+            {
+              "len": 6
+            }
+          ]
+        },
+        {
+          "text": "A red fruit is ____.",
+          "answer": "APPLE",
+          "blanks": [
+            {
+              "len": 5
+            }
+          ]
+        }
+      ],
+      "render": {
+        "style": "boxes"
+      }
+    }
+  ]
+}

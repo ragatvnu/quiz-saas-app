@@ -1,0 +1,40 @@
+// src/pages/TriviaPage.jsx (perf controls injected into existing component)
+// Minimal snippet you can merge: add UI controls and pass to exporter.
+// Place this inside your component, near other export controls:
+
+/*
+  // New state
+  const [lowMem, setLowMem] = useState(true);
+  const [renderScaleCtl, setRenderScaleCtl] = useState(1.4);
+  const [jpegQualityCtl, setJpegQualityCtl] = useState(0.88);
+
+  // In onExportPDF options:
+  const opts = {
+    size: "A4",
+    bw: bwExport,
+    fontFamily,
+    fontSizePt,
+    bgSrc: bgDataURL,
+    bgOpacity,
+    logoSrc: logoDataURL,
+    footerText,
+    // New:
+    lowMem,
+    renderScale: renderScaleCtl,
+    jpegQuality: jpegQualityCtl,
+  };
+
+  // In the Export controls JSX, add:
+  <div className="flex items-center gap-3 p-3 bg-gray-50 rounded">
+    <label className="flex items-center gap-2 text-sm">
+      <input type="checkbox" checked={lowMem} onChange={(e)=>setLowMem(e.target.checked)} />
+      Low-memory mode
+    </label>
+    <label className="text-xs">Render scale</label>
+    <input className="border rounded px-2 py-1 w-24" type="number" min={1.0} step={0.1}
+      value={renderScaleCtl} onChange={(e)=>setRenderScaleCtl(parseFloat(e.target.value)||1.4)} />
+    <label className="text-xs">JPEG quality</label>
+    <input className="border rounded px-2 py-1 w-24" type="number" min={0.5} max={0.95} step={0.01}
+      value={jpegQualityCtl} onChange={(e)=>setJpegQualityCtl(parseFloat(e.target.value)||0.88)} />
+  </div>
+*/

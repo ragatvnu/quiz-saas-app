@@ -1,0 +1,34 @@
+/* Scoped light theme for PuzzlePacks widgets */
+.pp-theme {
+  --bg: #ffffff;
+  --card: #ffffff;
+  --muted: #e5e7eb;
+  --text: #111827;
+  --accent: #2563eb;    /* blue */
+  --grid: #f3f4f6;      /* light gray */
+}
+
+.pp-theme .btn {
+  cursor:pointer; background: var(--accent); color:#ffffff;
+  border:none; padding:10px 14px; border-radius: 999px; font-weight:600;
+}
+.pp-theme .btn.secondary { background: var(--muted); color: var(--text); }
+.pp-theme .btn.ghost     { background: transparent; border:1px solid #cbd5e1; color: var(--text); }
+
+.pp-theme .pp-grid {
+  display: grid; gap: 2px; background: var(--grid);
+  padding: 6px; border-radius: 12px; border: 1px solid #e5e7eb;
+  box-shadow: inset 0 0 0 1px rgba(0,0,0,0.02);
+}
+
+.pp-theme .pp-cell {
+  width: 44px; height: 44px; display: grid; place-items: center;
+  font-weight: 800; font-size: 18px; background: #ffffff; color: var(--text);
+  border-radius: 6px; border: 1px solid #e5e7eb;
+}
+
+.pp-theme .pp-cell.wrong   { background: #fee2e2; border-color:#fecaca; } /* red tint */
+.pp-theme .pp-cell.correct { background: #dcfce7; border-color:#bbf7d0; } /* green tint */
+.pp-theme .pp-cell.fixed   { color: #047857; }                           /* teal digits */
+.pp-theme .pp-cell.answer  { background: #fef9c3; border-color:#fde68a; } /* highlighted answer */
+

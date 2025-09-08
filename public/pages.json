@@ -1,0 +1,34 @@
+{
+  "pages": [
+    {
+      "href": "crossword.html",
+      "title": "Crossword",
+      "file": "crossword.html"
+    },
+    {
+      "href": "emoji.html",
+      "title": "Emoji Quiz",
+      "file": "emoji.html"
+    },
+    {
+      "href": "odd.html",
+      "title": "Odd One Out",
+      "file": "odd.html"
+    },
+    {
+      "href": "sudoku.html",
+      "title": "Sudoku",
+      "file": "sudoku.html"
+    },
+    {
+      "href": "trivia.html",
+      "title": "Trivia Quiz",
+      "file": "trivia.html"
+    },
+    {
+      "href": "word.html",
+      "title": "Word Search",
+      "file": "word.html"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "theme": "Christmas",
+  "branding": "© 2025 HMQUIZ",
+  "puzzles": [
+    {
+      "id": "c1",
+      "type": "odd_one_out",
+      "title": "Odd One Out – Christmas",
+      "difficulty": "easy",
+      "grid": {
+        "rows": 10,
+        "cols": 10
+      },
+      "odd_index": 77,
+      "main_emoji": "🎄",
+      "odd_emoji": "🎁",
+      "options": {
+        "configurable": true,
+        "defaultTheme": "Christmas"
+      }
+    },
+    {
+      "id": "c2",
+      "type": "word_search",
+      "title": "Christmas Word Search",
+      "difficulty": "medium",
+      "grid": {
+        "rows": 12,
+        "cols": 12
+      },
+      "auto_layout": true,
+      "word_list": [
+        "SANTA",
+        "SNOW",
+        "TREE",
+        "GIFT",
+        "ELF",
+        "CAROL",
+        "STAR",
+        "COOKIE"
+      ],
+      "options": {
+        "allowReverse": false,
+        "directions": [
+          "H",
+          "V"
+        ],
+        "maxAttemptsPerWord": 500
+      }
+    },
+    {
+      "id": "c3",
+      "type": "fill_in_blanks",
+      "title": "Holiday Blanks",
+      "difficulty": "easy",
+      "items": [
+        {
+          "text": "Rudolph is a ____ with a red nose.",
+          "answer": "REINDEER",
+          "blanks": [
+            {
+              "len": 8
+            }
+          ]
+        },
+        {
+          "text": "We decorate a Christmas ____.",
+          "answer": "TREE",
+          "blanks": [
+            {
+              "len": 4
+            }
+          ]
+        }
+      ],
+      "render": {
+        "style": "boxes"
+      }
+    },
+    {
+      "id": "c4",
+      "type": "spot_the_difference",
+      "title": "Spot the Difference – Santa",
+      "difficulty": "easy",
+      "images": {
+        "left": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Example.jpg/400px-Example.jpg",
+          "alt": "Left"
+        },
+        "right": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Example.jpg/400px-Example.jpg",
+          "alt": "Right"
+        }
+      },
+      "differences_required": 2,
+      "answers": {
+        "regions": [
+          {
+            "shape": "rect",
+            "x": 40,
+            "y": 40,
+            "w": 60,
+            "h": 30
+          },
+          {
+            "shape": "rect",
+            "x": 140,
+            "y": 110,
+            "w": 40,
+            "h": 40
+          }
+        ]
+      },
+      "render": {
+        "width": 320
+      }
+    }
+  ]
+}
